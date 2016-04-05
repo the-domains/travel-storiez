@@ -1,0 +1,28 @@
+name: Travel Storiez
+favicon: null
+layout_spectrum: 0.5658754513133317
+typography_spectrum: 0.7843051308300346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11636762483976781
+  lightness: 0.25014147418551147
+  saturation: 0.008069801842793822
+  rhythmicContrast: 0.33004999929107726
+purpose: []
