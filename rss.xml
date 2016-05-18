@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 17:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 20:57:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinque Terre: Vernazza]]></title>
+            <description><![CDATA[<article><h1>Cinque Terre: Vernazza</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/cinque-terre-vernazza/index.html</link>
+            <guid isPermaLink="false">09d146c5-96ff-4da8-92a7-7e48d65f3e3a</guid>
+            <pubDate>Wed, 18 May 2016 20:57:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/florence-from-the-hill-1/index.html</link>
             <guid isPermaLink="false">02eb1c1b-f6a3-4818-a01a-956777b8d508</guid>
             <pubDate>Tue, 17 May 2016 08:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ponte Vecchio]]></title>
-            <description><![CDATA[<article><h1>Ponte Vecchio</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6e8ee93-4bee-406f-9731-858e70faaa0a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/ponte-vecchio/index.html</link>
-            <guid isPermaLink="false">508b5aeb-13e3-41f6-b126-55a7a442ea83</guid>
-            <pubDate>Mon, 16 May 2016 20:36:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
