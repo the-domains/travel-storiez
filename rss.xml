@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 16:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 16:52:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinque Terre: Stairs to Corniglia]]></title>
+            <description><![CDATA[<h1>Cinque Terre: Stairs to Corniglia</h1>]]></description>
+            <link>https://thegrid.ai/travel-storiez/cinque-terre-stairs-to-corniglia/index.html</link>
+            <guid isPermaLink="false">151a880c-b12c-4613-8d4c-2893cfb1d896</guid>
+            <pubDate>Wed, 18 May 2016 16:51:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: Stairs to Consiglia, Part 2]]></title>
             <description><![CDATA[<h1>Cinque Terre: Stairs to Consiglia, Part 2</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/88275bc8-cdb2-4faa-a3a6-06005346c320/index.html</link>
             <guid isPermaLink="false">88275bc8-cdb2-4faa-a3a6-06005346c320</guid>
             <pubDate>Sun, 15 May 2016 23:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3bf245d-e20f-43b7-8152-194b47cb1788.jpg">]]></description>
-            <link>https://thegrid.ai/travel-storiez/medusa/index.html</link>
-            <guid isPermaLink="false">a1e9f6ab-e6fe-4e82-8052-b1b8a22761a7</guid>
-            <pubDate>Sun, 15 May 2016 23:07:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
