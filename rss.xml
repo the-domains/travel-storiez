@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:42:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinque Terre: Riomaggiori Bar on a Cliff]]></title>
+            <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori Bar on a Cliff</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c70404a-0da7-4d54-97fb-92d24c63cfa5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-bar-on-a-cliff/index.html</link>
+            <guid isPermaLink="false">78a3af8b-cc9c-4014-946d-1bb6362eecc9</guid>
+            <pubDate>Mon, 06 Jun 2016 07:42:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: Riomaggiori 3]]></title>
             <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3894a91e-be85-4202-b172-d1f4b3fb700f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/88275bc8-cdb2-4faa-a3a6-06005346c320/index.html</link>
             <guid isPermaLink="false">88275bc8-cdb2-4faa-a3a6-06005346c320</guid>
             <pubDate>Mon, 06 Jun 2016 07:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: Saturday market...]]></title>
-            <description><![CDATA[<article><h1>Rome: Saturday market...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463ef980-032a-46a1-9c03-b18e23ddb4e2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/rome-saturday-market/index.html</link>
-            <guid isPermaLink="false">762c9b34-9277-4acd-aaf0-f04b1ac390e9</guid>
-            <pubDate>Mon, 06 Jun 2016 07:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
