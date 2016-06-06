@@ -1,14 +1,19 @@
 ---
-dateModified: '2016-05-14T07:52:43.050Z'
-hasPage: false
 inFeed: true
+hasPage: true
 inNav: false
-title: Arrive à Roma
+inLanguage: null
+keywords: []
 description: ''
+datePublished: '2016-06-06T07:13:18.212Z'
+dateModified: '2016-06-06T07:04:15.491Z'
+title: Arrive à Roma
 author: []
-starred: false
-datePublished: '2016-05-14T07:52:52.583Z'
 sourcePath: _posts/2016-05-14-arrive-a-roma.md
+authors: []
+publisher: null
+starred: false
+url: arrive-a-roma/index.html
 _context: 'http://schema.org'
 _type: Article
 
