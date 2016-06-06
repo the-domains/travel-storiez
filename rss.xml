@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:29:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: San Marco]]></title>
+            <description><![CDATA[<article><h1>Venice: San Marco</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb1805bd-04a4-4801-bc22-f391953d3159.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-san-marco/index.html</link>
+            <guid isPermaLink="false">84754c90-fe7f-4ef5-bd45-77cff48f5929</guid>
+            <pubDate>Mon, 06 Jun 2016 07:29:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: El Oche. ]]></title>
             <description><![CDATA[<article><h1>Cinque Terre: El Oche. </h1><h2>Our quiet, awesome AirBnB spot.</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17500cff45544e4dfc2c8df148c80d64a4e11d64.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/rome-near-jewish-ghetto-wwii-that-is/index.html</link>
             <guid isPermaLink="false">6dad9716-b895-479c-a960-e6d2c9d4d724</guid>
             <pubDate>Mon, 06 Jun 2016 07:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: SAG ROMA!]]></title>
-            <description><![CDATA[<article><h1>Rome: SAG ROMA!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06fe8ae10fce7738c3e447ed30c7e4e482afb567.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/rome-sag-roma/index.html</link>
-            <guid isPermaLink="false">23ed858c-46bc-46c2-b79b-9d0644b9eb84</guid>
-            <pubDate>Mon, 06 Jun 2016 07:20:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
