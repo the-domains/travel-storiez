@@ -5,18 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T23:29:29.404Z'
-dateModified: '2016-05-15T23:22:30.204Z'
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-06-06T07:28:38.612Z'
+dateModified: '2016-06-06T07:07:13.392Z'
 title: 'Rome: 5 Seconds of Summer!!'
 author: []
-starred: false
 sourcePath: _posts/2016-05-15-rome-5-seconds-of-summer.md
+authors: []
+publisher: null
+starred: false
 url: rome-5-seconds-of-summer/index.html
 _type: Article
 
