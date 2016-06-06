@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 08:00:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: famous bridge]]></title>
+            <description><![CDATA[<article><h1>Venice: famous bridge</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a77091e2-4582-41b3-830d-cec4bcb435c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-famous-bridge/index.html</link>
+            <guid isPermaLink="false">9768c7eb-fba3-4d3c-906f-935e96ce8515</guid>
+            <pubDate>Mon, 06 Jun 2016 07:59:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: canal home with glass]]></title>
             <description><![CDATA[<article><h1>Venice: canal home with glass</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c45a7a-dadd-440e-a0f6-d65dee58b24e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/venice-canal-at-night/index.html</link>
             <guid isPermaLink="false">8df148b1-54a4-4141-918c-7b7734c0a637</guid>
             <pubDate>Mon, 06 Jun 2016 07:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinque Terre: Kiss rocks Riomaggiore....kinda]]></title>
-            <description><![CDATA[<article><h1>Cinque Terre: Kiss rocks Riomaggiore....kinda</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69e7d107a1c37caf686445d3375aed53a99e9d60.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/cinque-terre-kiss-rocks-riomaggiorekinda/index.html</link>
-            <guid isPermaLink="false">8744af06-b344-40c7-9927-73c5cd4cdda8</guid>
-            <pubDate>Mon, 06 Jun 2016 07:29:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
