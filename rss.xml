@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:30:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Canal at Night]]></title>
+            <description><![CDATA[<article><h1>Venice: Canal at Night</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69da54fa4a9e06869cd60ce1d9d45219cc3fa966.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-canal-at-night/index.html</link>
+            <guid isPermaLink="false">8df148b1-54a4-4141-918c-7b7734c0a637</guid>
+            <pubDate>Mon, 06 Jun 2016 07:30:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: Kiss rocks Riomaggiore....kinda]]></title>
             <description><![CDATA[<article><h1>Cinque Terre: Kiss rocks Riomaggiore....kinda</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69e7d107a1c37caf686445d3375aed53a99e9d60.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/rome-race-for-the-cure-with-paletine-in-the-background/index.html</link>
             <guid isPermaLink="false">91560bf8-6979-4b13-90f1-dadc7af4a72c</guid>
             <pubDate>Mon, 06 Jun 2016 07:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: Forum]]></title>
-            <description><![CDATA[<article><h1>Rome: Forum</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/582fe111fe3773e572abd33be4107849c929114b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/rome-forum/index.html</link>
-            <guid isPermaLink="false">87fde00b-01ea-41a3-9e13-5878fb2df9dc</guid>
-            <pubDate>Mon, 06 Jun 2016 07:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
