@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:22:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rome: The Forum, Paletine and a taste of the Colosseum]]></title>
+            <description><![CDATA[<article><h1>Rome: The Forum, Paletine and a taste of the Colosseum</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/534e6f56-459e-4d35-91b5-0244409def46.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/rome-the-forum-paletine-and-a-taste-of-the-colosseum/index.html</link>
+            <guid isPermaLink="false">551dda3f-d345-4306-ac37-5921ba0a9fa6</guid>
+            <pubDate>Mon, 06 Jun 2016 07:21:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rome: Race for the Cure with Paletine in the background...]]></title>
             <description><![CDATA[<article><h1>Rome: Race for the Cure with Paletine in the background...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/614fbabf-3649-4d31-9f1c-76e705edc98a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/cinque-terre-vernazza/index.html</link>
             <guid isPermaLink="false">09d146c5-96ff-4da8-92a7-7e48d65f3e3a</guid>
             <pubDate>Wed, 18 May 2016 20:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/920b9feb-6388-4de2-8996-f055ef21c613.jpg">]]></description>
-            <link>https://thegrid.ai/travel-storiez/88275bc8-cdb2-4faa-a3a6-06005346c320/index.html</link>
-            <guid isPermaLink="false">88275bc8-cdb2-4faa-a3a6-06005346c320</guid>
-            <pubDate>Wed, 18 May 2016 16:57:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
