@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 08:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 08:06:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corfu: High-rise]]></title>
+            <description><![CDATA[<article><h1>Corfu: High-rise</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f2badf4-dd99-40c2-a1cd-e4018b3d8ccf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/corfu-high-rise/index.html</link>
+            <guid isPermaLink="false">37014c1f-3e8f-43cb-90ff-39ff2cefb5c2</guid>
+            <pubDate>Mon, 06 Jun 2016 08:05:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corfu: tower in the city]]></title>
             <description><![CDATA[<article><h1>Corfu: tower in the city</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bee00de-8354-49d8-9ddb-1126d5245b35.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-3/index.html</link>
             <guid isPermaLink="false">b08c7144-f330-47f4-a10a-cc3e10d79b26</guid>
             <pubDate>Mon, 06 Jun 2016 07:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinque Terre: Riomaggiori 2]]></title>
-            <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b0bdc7-4cb5-4a60-8d6b-cf02041b19bf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-2/index.html</link>
-            <guid isPermaLink="false">7827cc8c-1186-4466-8d9a-1f30c12dfc19</guid>
-            <pubDate>Mon, 06 Jun 2016 07:36:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
