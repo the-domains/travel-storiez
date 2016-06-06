@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 21:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 21:49:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Murano Color 1]]></title>
+            <description><![CDATA[<article><h1>Venice: Murano Color 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b94229-9952-45d0-b44c-040414e2f7ae.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-murano-color-1/index.html</link>
+            <guid isPermaLink="false">689db378-41af-4550-ab92-33dacfcf6e55</guid>
+            <pubDate>Mon, 06 Jun 2016 21:49:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Clock]]></title>
             <description><![CDATA[<article><h1>Venice: Clock</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a53d8fc-f5f9-4a87-828c-79ea3fcd5df6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/corfu-tower-in-the-city/index.html</link>
             <guid isPermaLink="false">08024f8b-b42f-4ee2-9d9e-b8b08643bbb8</guid>
             <pubDate>Mon, 06 Jun 2016 08:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venice: the pop star]]></title>
-            <description><![CDATA[<article><h1>Venice: the pop star</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07815ac0-3a87-4330-8e23-f62b0f5abe35.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/venice-the-pop-star/index.html</link>
-            <guid isPermaLink="false">742bec59-c755-4e5e-98d4-1e2d9fdd3f53</guid>
-            <pubDate>Mon, 06 Jun 2016 08:02:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
