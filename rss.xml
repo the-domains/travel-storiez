@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 08:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 08:10:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corfu: entrance to fortress]]></title>
+            <description><![CDATA[<article><h1>Corfu: entrance to fortress</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc2cad3-06c6-4e3f-a78f-6e144e3ae9ea.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/corfu-entrance-to-fortress/index.html</link>
+            <guid isPermaLink="false">6f215e76-2cae-4155-9b2d-dbcda37454be</guid>
+            <pubDate>Mon, 06 Jun 2016 08:10:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corfu: Saint Spyridon Church]]></title>
             <description><![CDATA[<article><h1>Corfu: Saint Spyridon Church</h1><h2>...built in the 1580's</h2></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/cinque-terre-hills-behind-riomaggiori/index.html</link>
             <guid isPermaLink="false">51eefddc-7c83-429b-b46f-f327a181e680</guid>
             <pubDate>Mon, 06 Jun 2016 07:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinque Terre: Riomaggiori Bar on a Cliff]]></title>
-            <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori Bar on a Cliff</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c70404a-0da7-4d54-97fb-92d24c63cfa5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-bar-on-a-cliff/index.html</link>
-            <guid isPermaLink="false">78a3af8b-cc9c-4014-946d-1bb6362eecc9</guid>
-            <pubDate>Mon, 06 Jun 2016 07:42:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
