@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 21:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 21:56:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Murano Canal 2]]></title>
+            <description><![CDATA[<article><h1>Venice: Murano Canal 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54a85bff-d0ba-46f8-8dbe-b6c258b3fb76.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-murano-canal-2/index.html</link>
+            <guid isPermaLink="false">af278be8-57f7-4b3b-af5d-b33ddaef5188</guid>
+            <pubDate>Mon, 06 Jun 2016 21:56:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Murano Canal 1]]></title>
             <description><![CDATA[<article><h1>Venice: Murano Canal 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/040aac8a-c266-49fc-b714-3b29072fc643.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/corfu-saint-spyridon-church/index.html</link>
             <guid isPermaLink="false">498580c7-fc96-42c0-a5c9-9bb24ca9fce4</guid>
             <pubDate>Mon, 06 Jun 2016 08:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corfu: High-rise]]></title>
-            <description><![CDATA[<article><h1>Corfu: High-rise</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f2badf4-dd99-40c2-a1cd-e4018b3d8ccf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/corfu-high-rise/index.html</link>
-            <guid isPermaLink="false">37014c1f-3e8f-43cb-90ff-39ff2cefb5c2</guid>
-            <pubDate>Mon, 06 Jun 2016 08:05:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
