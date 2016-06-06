@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 08:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 08:22:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corfu: the fortress]]></title>
+            <description><![CDATA[<article><h1>Corfu: the fortress</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bc710d1-a076-4374-80f1-634b0d7f098d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/corfu-the-fortress/index.html</link>
+            <guid isPermaLink="false">80e6d4df-cc64-4d75-ad84-bb984c821752</guid>
+            <pubDate>Mon, 06 Jun 2016 08:22:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corfu: entrance to fortress]]></title>
             <description><![CDATA[<article><h1>Corfu: entrance to fortress</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc2cad3-06c6-4e3f-a78f-6e144e3ae9ea.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/venice-the-grand-canal/index.html</link>
             <guid isPermaLink="false">f17fd0ad-4dc3-460d-ae4b-2a6bda367dc4</guid>
             <pubDate>Mon, 06 Jun 2016 07:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinque Terre: Hills behind Riomaggiori]]></title>
-            <description><![CDATA[<article><h1>Cinque Terre: Hills behind Riomaggiori</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5ebf0a2-7152-4f88-bc56-0ab5d9838425.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/cinque-terre-hills-behind-riomaggiori/index.html</link>
-            <guid isPermaLink="false">51eefddc-7c83-429b-b46f-f327a181e680</guid>
-            <pubDate>Mon, 06 Jun 2016 07:46:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
