@@ -1,14 +1,19 @@
 ---
-dateModified: '2016-05-13T19:08:06.332Z'
-hasPage: false
 inFeed: true
+hasPage: true
 inNav: false
-title: Trevi Fountain with a bird on it
+inLanguage: null
+keywords: []
 description: ''
+datePublished: '2016-06-06T07:01:52.429Z'
+dateModified: '2016-06-06T07:01:36.051Z'
+title: Trevi Fountain with a bird on it
 author: []
-starred: false
-datePublished: '2016-05-13T19:08:16.486Z'
 sourcePath: _posts/2016-05-13-trevi-fountain-with-a-bird-on-it.md
+authors: []
+publisher: null
+starred: false
+url: trevi-fountain-with-a-bird-on-it/index.html
 _context: 'http://schema.org'
 _type: Article
 
