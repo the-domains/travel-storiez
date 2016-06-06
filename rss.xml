@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:39:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinque Terre: Riomaggiori 3]]></title>
+            <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3894a91e-be85-4202-b172-d1f4b3fb700f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-3/index.html</link>
+            <guid isPermaLink="false">b08c7144-f330-47f4-a10a-cc3e10d79b26</guid>
+            <pubDate>Mon, 06 Jun 2016 07:39:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: Riomaggiori 2]]></title>
             <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b0bdc7-4cb5-4a60-8d6b-cf02041b19bf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/rome-saturday-market/index.html</link>
             <guid isPermaLink="false">762c9b34-9277-4acd-aaf0-f04b1ac390e9</guid>
             <pubDate>Mon, 06 Jun 2016 07:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: Medusa]]></title>
-            <description><![CDATA[<article><h1>Rome: Medusa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c88b69a74a781bc2f37bbb2144b45ed67a15a22.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/medusa/index.html</link>
-            <guid isPermaLink="false">a1e9f6ab-e6fe-4e82-8052-b1b8a22761a7</guid>
-            <pubDate>Mon, 06 Jun 2016 07:22:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
