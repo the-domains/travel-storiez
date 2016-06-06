@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:22:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rome: Race for the Cure with Paletine in the background...]]></title>
+            <description><![CDATA[<article><h1>Rome: Race for the Cure with Paletine in the background...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/614fbabf-3649-4d31-9f1c-76e705edc98a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/rome-race-for-the-cure-with-paletine-in-the-background/index.html</link>
+            <guid isPermaLink="false">91560bf8-6979-4b13-90f1-dadc7af4a72c</guid>
+            <pubDate>Mon, 06 Jun 2016 07:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rome: Forum]]></title>
             <description><![CDATA[<article><h1>Rome: Forum</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/582fe111fe3773e572abd33be4107849c929114b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/88275bc8-cdb2-4faa-a3a6-06005346c320/index.html</link>
             <guid isPermaLink="false">88275bc8-cdb2-4faa-a3a6-06005346c320</guid>
             <pubDate>Wed, 18 May 2016 16:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinque Terre Mountain Hike]]></title>
-            <description><![CDATA[<h1>Cinque Terre Mountain Hike</h1>]]></description>
-            <link>https://thegrid.ai/travel-storiez/cinque-terre-mountain-hike/index.html</link>
-            <guid isPermaLink="false">4f5af6f2-a92e-4618-b42b-e770d58bd8f8</guid>
-            <pubDate>Wed, 18 May 2016 16:14:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
