@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 08:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 08:08:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corfu: Saint Spyridon Church]]></title>
+            <description><![CDATA[<article><h1>Corfu: Saint Spyridon Church</h1><h2>...built in the 1580's</h2></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/corfu-saint-spyridon-church/index.html</link>
+            <guid isPermaLink="false">498580c7-fc96-42c0-a5c9-9bb24ca9fce4</guid>
+            <pubDate>Mon, 06 Jun 2016 08:08:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corfu: High-rise]]></title>
             <description><![CDATA[<article><h1>Corfu: High-rise</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f2badf4-dd99-40c2-a1cd-e4018b3d8ccf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-bar-on-a-cliff/index.html</link>
             <guid isPermaLink="false">78a3af8b-cc9c-4014-946d-1bb6362eecc9</guid>
             <pubDate>Mon, 06 Jun 2016 07:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinque Terre: Riomaggiori 3]]></title>
-            <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3894a91e-be85-4202-b172-d1f4b3fb700f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-3/index.html</link>
-            <guid isPermaLink="false">b08c7144-f330-47f4-a10a-cc3e10d79b26</guid>
-            <pubDate>Mon, 06 Jun 2016 07:39:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
