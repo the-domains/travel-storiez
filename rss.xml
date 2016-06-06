@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:49:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: The Grand Canal]]></title>
+            <description><![CDATA[<article><h1>Venice: The Grand Canal</h1><h2>...near Piazzola Roma</h2></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-the-grand-canal/index.html</link>
+            <guid isPermaLink="false">f17fd0ad-4dc3-460d-ae4b-2a6bda367dc4</guid>
+            <pubDate>Mon, 06 Jun 2016 07:49:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: Hills behind Riomaggiori]]></title>
             <description><![CDATA[<article><h1>Cinque Terre: Hills behind Riomaggiori</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5ebf0a2-7152-4f88-bc56-0ab5d9838425.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/cinque-terre-el-oche/index.html</link>
             <guid isPermaLink="false">880ff34f-e8e5-4128-b9b6-c0d99c47502a</guid>
             <pubDate>Mon, 06 Jun 2016 07:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: 5 Seconds of Summer!!]]></title>
-            <description><![CDATA[<article><h1>Rome: 5 Seconds of Summer!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faa8481a1778ae57685366398c2cb998e1036c77.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/rome-5-seconds-of-summer/index.html</link>
-            <guid isPermaLink="false">188e0221-1781-4aeb-ba34-31aac54dfcdb</guid>
-            <pubDate>Mon, 06 Jun 2016 07:28:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
