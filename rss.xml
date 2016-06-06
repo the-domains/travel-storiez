@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 21:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 21:44:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Grand Canal 2]]></title>
+            <description><![CDATA[<article><h1>Venice: Grand Canal 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3285fdc2-6a1a-40db-899d-21ab56181344.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-grand-canal-2/index.html</link>
+            <guid isPermaLink="false">507235ba-e798-4276-86de-562a399b0750</guid>
+            <pubDate>Mon, 06 Jun 2016 21:44:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Around Town]]></title>
             <description><![CDATA[<article><h1>Venice: Around Town</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f42a37c5-3e95-4831-a51c-b1353a47f5f5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/venice-famous-bridge/index.html</link>
             <guid isPermaLink="false">9768c7eb-fba3-4d3c-906f-935e96ce8515</guid>
             <pubDate>Mon, 06 Jun 2016 07:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venice: canal home with glass]]></title>
-            <description><![CDATA[<article><h1>Venice: canal home with glass</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c45a7a-dadd-440e-a0f6-d65dee58b24e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/venice-canal-home-with-glass/index.html</link>
-            <guid isPermaLink="false">cd6fcf40-4bb6-4ccf-b889-a554de8c50cd</guid>
-            <pubDate>Mon, 06 Jun 2016 07:54:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
