@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:33:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinque Terre: Riomaggiori]]></title>
+            <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c015f445-28d3-4ea6-ab96-0df7556431c1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori/index.html</link>
+            <guid isPermaLink="false">5c9ec650-1221-4f41-ab2f-49ef0932dfd4</guid>
+            <pubDate>Mon, 06 Jun 2016 07:33:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Canal at Night]]></title>
             <description><![CDATA[<article><h1>Venice: Canal at Night</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69da54fa4a9e06869cd60ce1d9d45219cc3fa966.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/rome-the-forum-paletine-and-a-taste-of-the-colosseum/index.html</link>
             <guid isPermaLink="false">551dda3f-d345-4306-ac37-5921ba0a9fa6</guid>
             <pubDate>Mon, 06 Jun 2016 07:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: Race for the Cure with Paletine in the background...]]></title>
-            <description><![CDATA[<article><h1>Rome: Race for the Cure with Paletine in the background...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/614fbabf-3649-4d31-9f1c-76e705edc98a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/rome-race-for-the-cure-with-paletine-in-the-background/index.html</link>
-            <guid isPermaLink="false">91560bf8-6979-4b13-90f1-dadc7af4a72c</guid>
-            <pubDate>Mon, 06 Jun 2016 07:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
