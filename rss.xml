@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:54:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: canal home with glass]]></title>
+            <description><![CDATA[<article><h1>Venice: canal home with glass</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c45a7a-dadd-440e-a0f6-d65dee58b24e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-canal-home-with-glass/index.html</link>
+            <guid isPermaLink="false">cd6fcf40-4bb6-4ccf-b889-a554de8c50cd</guid>
+            <pubDate>Mon, 06 Jun 2016 07:54:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: home on a canal]]></title>
             <description><![CDATA[<article><h1>Venice: home on a canal</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adc4c26c-508a-45eb-9d49-ba3b58867ad3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/cinque-terre-kiss-rocks-riomaggiorekinda/index.html</link>
             <guid isPermaLink="false">8744af06-b344-40c7-9927-73c5cd4cdda8</guid>
             <pubDate>Mon, 06 Jun 2016 07:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venice: San Marco]]></title>
-            <description><![CDATA[<article><h1>Venice: San Marco</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb1805bd-04a4-4801-bc22-f391953d3159.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/venice-san-marco/index.html</link>
-            <guid isPermaLink="false">84754c90-fe7f-4ef5-bd45-77cff48f5929</guid>
-            <pubDate>Mon, 06 Jun 2016 07:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
