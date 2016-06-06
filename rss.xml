@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 21:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 21:53:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Murano Canal 1]]></title>
+            <description><![CDATA[<article><h1>Venice: Murano Canal 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/040aac8a-c266-49fc-b714-3b29072fc643.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-murano-canal-1/index.html</link>
+            <guid isPermaLink="false">85e4704c-8531-4344-a65a-7f48de1fafbc</guid>
+            <pubDate>Mon, 06 Jun 2016 21:52:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Murano Color 1]]></title>
             <description><![CDATA[<article><h1>Venice: Murano Color 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b94229-9952-45d0-b44c-040414e2f7ae.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/corfu-high-rise/index.html</link>
             <guid isPermaLink="false">37014c1f-3e8f-43cb-90ff-39ff2cefb5c2</guid>
             <pubDate>Mon, 06 Jun 2016 08:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corfu: tower in the city]]></title>
-            <description><![CDATA[<article><h1>Corfu: tower in the city</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bee00de-8354-49d8-9ddb-1126d5245b35.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/corfu-tower-in-the-city/index.html</link>
-            <guid isPermaLink="false">08024f8b-b42f-4ee2-9d9e-b8b08643bbb8</guid>
-            <pubDate>Mon, 06 Jun 2016 08:04:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
