@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 21:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 22:00:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Murano Color 2]]></title>
+            <description><![CDATA[<article><h1>Venice: Murano Color 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f36c9c1a-c627-4c34-b89e-47a5af2859de.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-murano-color-2/index.html</link>
+            <guid isPermaLink="false">8306a84b-b6f5-4e22-b7eb-96ebbe760c2c</guid>
+            <pubDate>Mon, 06 Jun 2016 22:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Murano Canal 2]]></title>
             <description><![CDATA[<article><h1>Venice: Murano Canal 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54a85bff-d0ba-46f8-8dbe-b6c258b3fb76.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/corfu-entrance-to-fortress/index.html</link>
             <guid isPermaLink="false">6f215e76-2cae-4155-9b2d-dbcda37454be</guid>
             <pubDate>Mon, 06 Jun 2016 08:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corfu: Saint Spyridon Church]]></title>
-            <description><![CDATA[<article><h1>Corfu: Saint Spyridon Church</h1><h2>...built in the 1580's</h2></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/corfu-saint-spyridon-church/index.html</link>
-            <guid isPermaLink="false">498580c7-fc96-42c0-a5c9-9bb24ca9fce4</guid>
-            <pubDate>Mon, 06 Jun 2016 08:08:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
