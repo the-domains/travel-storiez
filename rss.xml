@@ -4,8 +4,22 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:23:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rome: Biking on the Tibor]]></title>
+            <description><![CDATA[<article><h1>Rome: Biking on the Tibor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/920b9feb-6388-4de2-8996-f055ef21c613.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/88275bc8-cdb2-4faa-a3a6-06005346c320/index.html</link>
+            <guid isPermaLink="false">88275bc8-cdb2-4faa-a3a6-06005346c320</guid>
+            <pubDate>Mon, 06 Jun 2016 07:23:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rome: Medusa]]></title>
+            <description><![CDATA[<article><h1>Rome: Medusa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c88b69a74a781bc2f37bbb2144b45ed67a15a22.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/medusa/index.html</link>
+            <guid isPermaLink="false">a1e9f6ab-e6fe-4e82-8052-b1b8a22761a7</guid>
+            <pubDate>Mon, 06 Jun 2016 07:22:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rome: The Forum, Paletine and a taste of the Colosseum]]></title>
             <description><![CDATA[<article><h1>Rome: The Forum, Paletine and a taste of the Colosseum</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/534e6f56-459e-4d35-91b5-0244409def46.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/rome-spazzola/index.html</link>
             <guid isPermaLink="false">dab9feff-b6d0-4eb2-a3d5-9fa16db64482</guid>
             <pubDate>Mon, 06 Jun 2016 07:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3bf245d-e20f-43b7-8152-194b47cb1788.jpg">]]></description>
-            <link>https://thegrid.ai/travel-storiez/medusa/index.html</link>
-            <guid isPermaLink="false">a1e9f6ab-e6fe-4e82-8052-b1b8a22761a7</guid>
-            <pubDate>Wed, 18 May 2016 21:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinque Terre: Vernazza]]></title>
-            <description><![CDATA[<article><h1>Cinque Terre: Vernazza</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/cinque-terre-vernazza/index.html</link>
-            <guid isPermaLink="false">09d146c5-96ff-4da8-92a7-7e48d65f3e3a</guid>
-            <pubDate>Wed, 18 May 2016 20:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
