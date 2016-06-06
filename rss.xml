@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:36:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinque Terre: Riomaggiori 2]]></title>
+            <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b0bdc7-4cb5-4a60-8d6b-cf02041b19bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/cinque-terre-riomaggiori-2/index.html</link>
+            <guid isPermaLink="false">7827cc8c-1186-4466-8d9a-1f30c12dfc19</guid>
+            <pubDate>Mon, 06 Jun 2016 07:36:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: Riomaggiori]]></title>
             <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c015f445-28d3-4ea6-ab96-0df7556431c1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/medusa/index.html</link>
             <guid isPermaLink="false">a1e9f6ab-e6fe-4e82-8052-b1b8a22761a7</guid>
             <pubDate>Mon, 06 Jun 2016 07:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: The Forum, Paletine and a taste of the Colosseum]]></title>
-            <description><![CDATA[<article><h1>Rome: The Forum, Paletine and a taste of the Colosseum</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/534e6f56-459e-4d35-91b5-0244409def46.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/rome-the-forum-paletine-and-a-taste-of-the-colosseum/index.html</link>
-            <guid isPermaLink="false">551dda3f-d345-4306-ac37-5921ba0a9fa6</guid>
-            <pubDate>Mon, 06 Jun 2016 07:21:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
