@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 07:46:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinque Terre: Hills behind Riomaggiori]]></title>
+            <description><![CDATA[<article><h1>Cinque Terre: Hills behind Riomaggiori</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5ebf0a2-7152-4f88-bc56-0ab5d9838425.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/cinque-terre-hills-behind-riomaggiori/index.html</link>
+            <guid isPermaLink="false">51eefddc-7c83-429b-b46f-f327a181e680</guid>
+            <pubDate>Mon, 06 Jun 2016 07:46:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinque Terre: Riomaggiori Bar on a Cliff]]></title>
             <description><![CDATA[<article><h1>Cinque Terre: Riomaggiori Bar on a Cliff</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c70404a-0da7-4d54-97fb-92d24c63cfa5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/rome-5-seconds-of-summer/index.html</link>
             <guid isPermaLink="false">188e0221-1781-4aeb-ba34-31aac54dfcdb</guid>
             <pubDate>Mon, 06 Jun 2016 07:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rome: Biking on the Tibor]]></title>
-            <description><![CDATA[<article><h1>Rome: Biking on the Tibor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/920b9feb-6388-4de2-8996-f055ef21c613.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/88275bc8-cdb2-4faa-a3a6-06005346c320/index.html</link>
-            <guid isPermaLink="false">88275bc8-cdb2-4faa-a3a6-06005346c320</guid>
-            <pubDate>Mon, 06 Jun 2016 07:28:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
