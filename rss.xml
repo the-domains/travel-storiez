@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 22:00:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 08:04:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Ride 'em, Cowboy!]]></title>
+            <description><![CDATA[<article><h1>Venice: Ride 'em, Cowboy!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50cbfb0f-4a27-44d3-96dc-d332554287be.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-ride-em-cowboy/index.html</link>
+            <guid isPermaLink="false">789f3227-1d3f-4237-bb47-eaf6f885c81e</guid>
+            <pubDate>Tue, 07 Jun 2016 08:04:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Murano Color 2]]></title>
             <description><![CDATA[<article><h1>Venice: Murano Color 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f36c9c1a-c627-4c34-b89e-47a5af2859de.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/corfu-the-fortress/index.html</link>
             <guid isPermaLink="false">80e6d4df-cc64-4d75-ad84-bb984c821752</guid>
             <pubDate>Mon, 06 Jun 2016 08:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corfu: entrance to fortress]]></title>
-            <description><![CDATA[<article><h1>Corfu: entrance to fortress</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc2cad3-06c6-4e3f-a78f-6e144e3ae9ea.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/corfu-entrance-to-fortress/index.html</link>
-            <guid isPermaLink="false">6f215e76-2cae-4155-9b2d-dbcda37454be</guid>
-            <pubDate>Mon, 06 Jun 2016 08:10:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
