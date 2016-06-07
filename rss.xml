@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 21:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 21:28:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Santorini: Cruise ship in harbor]]></title>
+            <description><![CDATA[<article><h1>Santorini: Cruise ship in harbor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5da7b667-d2bf-456b-bb68-9ca2c80df19d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/santorini-cruise-ship-in-harbor/index.html</link>
+            <guid isPermaLink="false">2fab687d-d257-4960-95e1-f8c02830f95e</guid>
+            <pubDate>Tue, 07 Jun 2016 21:27:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Santorini: Roof deck]]></title>
             <description><![CDATA[<article><h1>Santorini: Roof deck</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a022804-30da-4f6e-8d0b-2ae0d489aa1e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/corfu-entrance-to-fortress/index.html</link>
             <guid isPermaLink="false">6f215e76-2cae-4155-9b2d-dbcda37454be</guid>
             <pubDate>Tue, 07 Jun 2016 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venice: Chiesa di San Nicola da Tolentino]]></title>
-            <description><![CDATA[<article><h1>Venice: Chiesa di San Nicola da Tolentino</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00695621-cd3d-42e7-8415-582339e6f1fc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/venice-chiesa-di-san-nicola-da-tolentino/index.html</link>
-            <guid isPermaLink="false">86a710fa-3f5d-4574-9d38-de3a515fe765</guid>
-            <pubDate>Tue, 07 Jun 2016 08:18:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
