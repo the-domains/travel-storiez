@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T20:56:25.095Z'
-dateModified: '2016-06-07T20:55:57.501Z'
+datePublished: '2016-06-07T21:02:10.967Z'
+dateModified: '2016-06-07T20:56:37.925Z'
 title: 'Santorini: Roof deck'
+author: []
+sourcePath: _posts/2016-06-07-santorini-roof-deck.md
 authors: []
 publisher: null
-author: []
 starred: false
-sourcePath: _posts/2016-06-07-santorini-roof-deck.md
 url: santorini-roof-deck/index.html
 _type: Article
 
