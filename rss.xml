@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 08:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 08:18:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venice: Chiesa di San Nicola da Tolentino]]></title>
+            <description><![CDATA[<article><h1>Venice: Chiesa di San Nicola da Tolentino</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00695621-cd3d-42e7-8415-582339e6f1fc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/venice-chiesa-di-san-nicola-da-tolentino/index.html</link>
+            <guid isPermaLink="false">86a710fa-3f5d-4574-9d38-de3a515fe765</guid>
+            <pubDate>Tue, 07 Jun 2016 08:18:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice: Birdie]]></title>
             <description><![CDATA[<article><h1>Venice: Birdie</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9de8c5be-52b5-4f2f-93ba-6fc4e1eb0376.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/venice-around-town/index.html</link>
             <guid isPermaLink="false">3522c92f-b0e4-4977-a254-20c9412db953</guid>
             <pubDate>Mon, 06 Jun 2016 21:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venice: San Giorgio Maggiore]]></title>
-            <description><![CDATA[<article><h1>Venice: San Giorgio Maggiore</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b84e04b-5a82-47ef-ac5c-b883af028bc1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/venice-san-giorgio-maggiore/index.html</link>
-            <guid isPermaLink="false">d6fbe52f-0c2a-41c8-b63e-ac2ca8f53661</guid>
-            <pubDate>Mon, 06 Jun 2016 21:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
