@@ -4,11 +4,18 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 09:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 09:04:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Santorini: Flowers on my mind...]]></title>
+            <description><![CDATA[<article><h1>Santorini: Flowers on my mind...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31294809-e991-40d2-a68c-9f2cdb16c74d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/santorini-flowers-on-my-mind/index.html</link>
+            <guid isPermaLink="false">4188678f-b952-4624-a912-ff31500f8794</guid>
+            <pubDate>Tue, 07 Jun 2016 09:04:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Santorini: Donkeys!]]></title>
-            <description><![CDATA[<article><h1>Santorini: Donkeys!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7b49ef5-9348-4577-a875-0e22abc1a655.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Santorini: Donkeys!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f4c8752cd6fb515f89314c26a5897afa0e2660.jpg"></article>]]></description>
             <link>https://thegrid.ai/travel-storiez/santorini-donkeys/index.html</link>
             <guid isPermaLink="false">e463fe45-f201-4716-be7b-4c5a8038da8f</guid>
             <pubDate>Tue, 07 Jun 2016 09:00:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/venice-ride-em-cowboy/index.html</link>
             <guid isPermaLink="false">789f3227-1d3f-4237-bb47-eaf6f885c81e</guid>
             <pubDate>Tue, 07 Jun 2016 08:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venice: Murano Color 2]]></title>
-            <description><![CDATA[<article><h1>Venice: Murano Color 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f36c9c1a-c627-4c34-b89e-47a5af2859de.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/venice-murano-color-2/index.html</link>
-            <guid isPermaLink="false">8306a84b-b6f5-4e22-b7eb-96ebbe760c2c</guid>
-            <pubDate>Mon, 06 Jun 2016 22:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
