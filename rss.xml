@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 10:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 10:42:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mykonos: Harbor 2]]></title>
+            <description><![CDATA[<article><h1>Mykonos: Harbor 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/076fa3b1-3235-4065-85c6-c3632e246ac0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/mykonos-harbor-2/index.html</link>
+            <guid isPermaLink="false">2bd68bc0-e97e-4576-b74a-d7555e83b91d</guid>
+            <pubDate>Wed, 08 Jun 2016 10:42:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mykonos: Harbor]]></title>
             <description><![CDATA[<article><h1>Mykonos: Harbor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9263fc0-0ae7-4268-b9ae-5a32eaf7d552.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/santorini/index.html</link>
             <guid isPermaLink="false">a837209f-55fd-4165-9ec0-582a3400b3d1</guid>
             <pubDate>Tue, 07 Jun 2016 21:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Santorini: Flowers on my mind]]></title>
-            <description><![CDATA[<article><h1>Santorini: Flowers on my mind</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31294809-e991-40d2-a68c-9f2cdb16c74d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/santorini-flowers-on-my-mind/index.html</link>
-            <guid isPermaLink="false">4188678f-b952-4624-a912-ff31500f8794</guid>
-            <pubDate>Tue, 07 Jun 2016 21:14:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
