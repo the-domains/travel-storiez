@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 22:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 22:50:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mykonos: Harbor 2]]></title>
+            <description><![CDATA[<article><h1>Mykonos: Harbor 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0de38c17-1ba7-4348-a88b-fff8ba1ec5f4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/mykonos-harbor-2/index.html</link>
+            <guid isPermaLink="false">e1d1fe0d-7fc8-4bdd-b02d-7e909d5cade2</guid>
+            <pubDate>Wed, 08 Jun 2016 22:50:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mykonos: Inner Passage 1]]></title>
             <description><![CDATA[<article><h1>Mykonos: Inner Passage 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da4f8989-ec4c-411f-b3bb-044ba4262e0c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/santorini-harbor-tenders/index.html</link>
             <guid isPermaLink="false">22b1441c-c4e4-41d0-8abb-dc819fce3793</guid>
             <pubDate>Wed, 08 Jun 2016 10:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Santorini]]></title>
-            <description><![CDATA[<article><h1>Santorini</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e28747c-c5f5-467e-b96a-59fc7551eaa1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/santorini/index.html</link>
-            <guid isPermaLink="false">9ed34afe-97b7-46c2-bb76-197e369cee50</guid>
-            <pubDate>Wed, 08 Jun 2016 10:28:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
