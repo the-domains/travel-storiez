@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 15:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 22:38:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mykonos: Front porch]]></title>
+            <description><![CDATA[<article><h1>Mykonos: Front porch</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fd2b073-27ed-4e76-bbdc-3f2bb3ad6010.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/mykonos-front-porch/index.html</link>
+            <guid isPermaLink="false">67ea5c38-636a-4f52-a9b2-9ec0f416802a</guid>
+            <pubDate>Wed, 08 Jun 2016 22:37:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mykonos: Green Door Tree]]></title>
             <description><![CDATA[<article><h1>Mykonos: Green Door Tree</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7e7cd9-22d2-4fe6-b67e-18576fd45e45.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/santorini-cruise-ship-in-harbor/index.html</link>
             <guid isPermaLink="false">2fab687d-d257-4960-95e1-f8c02830f95e</guid>
             <pubDate>Tue, 07 Jun 2016 21:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Santorini: Roof deck]]></title>
-            <description><![CDATA[<article><h1>Santorini: Roof deck</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a022804-30da-4f6e-8d0b-2ae0d489aa1e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/santorini-roof-deck/index.html</link>
-            <guid isPermaLink="false">01725cbe-d153-4783-ac62-094c93a4085b</guid>
-            <pubDate>Tue, 07 Jun 2016 21:24:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
