@@ -4,8 +4,22 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 23:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:15:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mykonos: Passage 4]]></title>
+            <description><![CDATA[<article><h1>Mykonos: Passage 4</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e26b189-6e38-42ec-a67a-710934f80e8e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/mykonos-passage-4/index.html</link>
+            <guid isPermaLink="false">ad79c942-0075-45ba-968e-ea5cf0d1ca5b</guid>
+            <pubDate>Thu, 09 Jun 2016 14:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mykonos: Stairway]]></title>
+            <description><![CDATA[<article><h1>Mykonos: Stairway</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36202afa-1545-4216-8f0d-c5c65c8bc079.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/mykonos-stairway/index.html</link>
+            <guid isPermaLink="false">08d95c54-acd4-43d0-b5b1-69bc2ec3d35e</guid>
+            <pubDate>Thu, 09 Jun 2016 14:11:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mykonos: Passage 3]]></title>
             <description><![CDATA[<article><h1>Mykonos: Passage 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/069a8fab-d862-4741-b174-ae0ab334b333.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/mykonos-windmill/index.html</link>
             <guid isPermaLink="false">3856d9c9-bc4f-42a4-b2e6-6f4b0880e520</guid>
             <pubDate>Wed, 08 Jun 2016 22:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mykonos: Front porch]]></title>
-            <description><![CDATA[<article><h1>Mykonos: Front porch</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fd2b073-27ed-4e76-bbdc-3f2bb3ad6010.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/mykonos-front-porch/index.html</link>
-            <guid isPermaLink="false">67ea5c38-636a-4f52-a9b2-9ec0f416802a</guid>
-            <pubDate>Wed, 08 Jun 2016 22:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mykonos: Green Door Tree]]></title>
-            <description><![CDATA[<article><h1>Mykonos: Green Door Tree</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7e7cd9-22d2-4fe6-b67e-18576fd45e45.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/mykonos-green-door-tree/index.html</link>
-            <guid isPermaLink="false">9cb95bdb-8f9c-4d3e-9b1c-60aca7274589</guid>
-            <pubDate>Wed, 08 Jun 2016 15:45:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
