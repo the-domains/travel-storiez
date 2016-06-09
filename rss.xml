@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:48:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubrovnik: Resort]]></title>
+            <description><![CDATA[<article><h1>Dubrovnik: Resort</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c6c47be-b4f8-4b35-a82d-ddc6bef21166.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/dubrovnik-resort/index.html</link>
+            <guid isPermaLink="false">9c53268f-6e4a-4e4e-9648-adae849db502</guid>
+            <pubDate>Thu, 09 Jun 2016 14:48:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: Harbor 2]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: Harbor 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/537ec7c8-e2f3-47c5-b119-707bb65b1ccb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/mykonos-passage-4/index.html</link>
             <guid isPermaLink="false">ad79c942-0075-45ba-968e-ea5cf0d1ca5b</guid>
             <pubDate>Thu, 09 Jun 2016 14:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mykonos: Stairway]]></title>
-            <description><![CDATA[<article><h1>Mykonos: Stairway</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36202afa-1545-4216-8f0d-c5c65c8bc079.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/mykonos-stairway/index.html</link>
-            <guid isPermaLink="false">08d95c54-acd4-43d0-b5b1-69bc2ec3d35e</guid>
-            <pubDate>Thu, 09 Jun 2016 14:11:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
