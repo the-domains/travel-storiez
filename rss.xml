@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:42:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubrovnik: Harbor 1]]></title>
+            <description><![CDATA[<article><h1>Dubrovnik: Harbor 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f2eae2c-8329-4d88-a75f-09ebc52fb705.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/dubrovnik-harbor-1/index.html</link>
+            <guid isPermaLink="false">43e0c440-65c6-4023-a0ee-2319eda8dead</guid>
+            <pubDate>Thu, 09 Jun 2016 14:41:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: Old Town 4]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: Old Town 4</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2760e7f7-e2d6-4d27-8ff3-ccefe45a13be.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/mykonos-passage-3/index.html</link>
             <guid isPermaLink="false">de25a365-5412-450b-8bfd-2f30e258cc80</guid>
             <pubDate>Wed, 08 Jun 2016 23:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mykonos: Passage 2]]></title>
-            <description><![CDATA[<article><h1>Mykonos: Passage 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc99cac-257f-4118-9f22-e451d84a78d9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/mykonos-passage-2/index.html</link>
-            <guid isPermaLink="false">b41d51de-b5e9-4035-bc1b-42f31187864b</guid>
-            <pubDate>Wed, 08 Jun 2016 23:09:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
