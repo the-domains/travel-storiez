@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:39:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubrovnik: Old Town 4]]></title>
+            <description><![CDATA[<article><h1>Dubrovnik: Old Town 4</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2760e7f7-e2d6-4d27-8ff3-ccefe45a13be.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-4/index.html</link>
+            <guid isPermaLink="false">ad0f6619-3268-454a-b343-76529348c18e</guid>
+            <pubDate>Thu, 09 Jun 2016 14:39:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: Old Town 3]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: Old Town 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faa140be-e3c4-454e-9271-a927d63985a9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/mykonos-passage-2/index.html</link>
             <guid isPermaLink="false">b41d51de-b5e9-4035-bc1b-42f31187864b</guid>
             <pubDate>Wed, 08 Jun 2016 23:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mykonos: Cat nap...]]></title>
-            <description><![CDATA[<article><h1>Mykonos: Cat nap...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4016ccd1-e06f-40dc-bf00-a35dc67fd85b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/mykonos-cat-nap/index.html</link>
-            <guid isPermaLink="false">866c4778-e162-4c7a-b44c-910863b95e13</guid>
-            <pubDate>Wed, 08 Jun 2016 23:07:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
