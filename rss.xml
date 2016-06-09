@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:27:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubrovnik: City 1]]></title>
+            <description><![CDATA[<article><h1>Dubrovnik: City 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1787b25-9a86-4e1f-823c-624bfc7d928b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/dubrovnik-city-1/index.html</link>
+            <guid isPermaLink="false">54163334-7102-4d90-8f82-7138e4c23edb</guid>
+            <pubDate>Thu, 09 Jun 2016 14:26:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: Cathedral]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: Cathedral</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7521d1bc-fa09-4337-9cf4-690266da521b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/mykonos-harbor-2/index.html</link>
             <guid isPermaLink="false">e1d1fe0d-7fc8-4bdd-b02d-7e909d5cade2</guid>
             <pubDate>Wed, 08 Jun 2016 22:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mykonos: Inner Passage 1]]></title>
-            <description><![CDATA[<article><h1>Mykonos: Inner Passage 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da4f8989-ec4c-411f-b3bb-044ba4262e0c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/mykonos-inner-passage-1/index.html</link>
-            <guid isPermaLink="false">da12691c-5cc6-4b5d-b88e-65fac44544ce</guid>
-            <pubDate>Wed, 08 Jun 2016 22:47:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
