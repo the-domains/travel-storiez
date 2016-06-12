@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 08:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 08:44:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubrovnik: Old Town 8]]></title>
+            <description><![CDATA[<article><h1>Dubrovnik: Old Town 8</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f04592b-e6f5-4dac-9390-ca7192309b8f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-8/index.html</link>
+            <guid isPermaLink="false">a23fb4a2-61b9-4f10-a3dd-1e90e87aa98d</guid>
+            <pubDate>Sun, 12 Jun 2016 08:43:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: Old Town 7]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: Old Town 7</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8949b9e6-a5f4-48f8-9be3-8bf909edcaaf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-harbor-1/index.html</link>
             <guid isPermaLink="false">43e0c440-65c6-4023-a0ee-2319eda8dead</guid>
             <pubDate>Thu, 09 Jun 2016 14:41:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: Old Town 4]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: Old Town 4</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2760e7f7-e2d6-4d27-8ff3-ccefe45a13be.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-4/index.html</link>
-            <guid isPermaLink="false">ad0f6619-3268-454a-b343-76529348c18e</guid>
-            <pubDate>Thu, 09 Jun 2016 14:39:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
