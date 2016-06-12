@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 08:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 08:45:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubrovnik: Old Town Clock Tower]]></title>
+            <description><![CDATA[<article><h1>Dubrovnik: Old Town Clock Tower</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8442354-317f-4be3-9ed7-7021c454c43b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-clock-tower/index.html</link>
+            <guid isPermaLink="false">53c4fa68-89e2-4748-a7d3-2ae5309071ae</guid>
+            <pubDate>Sun, 12 Jun 2016 08:44:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: Old Town 8]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: Old Town 8</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f04592b-e6f5-4dac-9390-ca7192309b8f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-harbor-2/index.html</link>
             <guid isPermaLink="false">f3025d70-6ad2-40c1-bd77-3beac28177c2</guid>
             <pubDate>Thu, 09 Jun 2016 14:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: Harbor 1]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: Harbor 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f2eae2c-8329-4d88-a75f-09ebc52fb705.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-harbor-1/index.html</link>
-            <guid isPermaLink="false">43e0c440-65c6-4023-a0ee-2319eda8dead</guid>
-            <pubDate>Thu, 09 Jun 2016 14:41:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
