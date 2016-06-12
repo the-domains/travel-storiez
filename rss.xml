@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 20:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 08:43:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dubrovnik: Old Town 7]]></title>
+            <description><![CDATA[<article><h1>Dubrovnik: Old Town 7</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8949b9e6-a5f4-48f8-9be3-8bf909edcaaf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-7/index.html</link>
+            <guid isPermaLink="false">49b725d1-9bdd-45bf-85ec-7fde383ddac2</guid>
+            <pubDate>Sun, 12 Jun 2016 08:42:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: City needs...]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: City needs...</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-4/index.html</link>
             <guid isPermaLink="false">ad0f6619-3268-454a-b343-76529348c18e</guid>
             <pubDate>Thu, 09 Jun 2016 14:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: Old Town 3]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: Old Town 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faa140be-e3c4-454e-9271-a927d63985a9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-3/index.html</link>
-            <guid isPermaLink="false">35cf6c7a-d1d0-47d3-a1d4-55f12a92ce5e</guid>
-            <pubDate>Thu, 09 Jun 2016 14:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
