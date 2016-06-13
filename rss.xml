@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 08:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 06:35:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athens: Plaka Pillars]]></title>
+            <description><![CDATA[<article><h1>Athens: Plaka Pillars</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0ff8d3-063b-44f5-b7ae-36527911aaf9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/athens-plaka-pillars/index.html</link>
+            <guid isPermaLink="false">dcbb07b9-329f-4d1b-a232-b01fc72085bf</guid>
+            <pubDate>Mon, 13 Jun 2016 06:34:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubrovnik: Croatian Beer and a Stella]]></title>
             <description><![CDATA[<article><h1>Dubrovnik: Croatian Beer and a Stella</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9a0704-4faa-4503-8682-70a2ed969f77.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-flower-bee/index.html</link>
             <guid isPermaLink="false">1d965be6-b272-4a99-a987-b47f9211682a</guid>
             <pubDate>Thu, 09 Jun 2016 15:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: The pirates are coming...]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: The pirates are coming...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7db537c5-d38d-453b-a8a7-d12d859d387f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-the-pirates-are-coming/index.html</link>
-            <guid isPermaLink="false">84ee1c0c-9134-44c4-96a1-ca86331443d3</guid>
-            <pubDate>Thu, 09 Jun 2016 14:58:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
