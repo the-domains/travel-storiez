@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 07:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 07:15:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athens: Acropolis 6]]></title>
+            <description><![CDATA[<article><h1>Athens: Acropolis 6</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd1fc6be-5e82-4056-9d9d-57b770209013.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/athens-acropolis-6/index.html</link>
+            <guid isPermaLink="false">8ddb5c9e-3df3-4cfe-ade8-c14d9ed96ad4</guid>
+            <pubDate>Mon, 13 Jun 2016 07:14:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Athens: Acropolis 5]]></title>
             <description><![CDATA[<article><h1>Athens: Acropolis 5</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/264af288-ce18-4cc8-a3ab-d2d68a3a9685.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-cash-money/index.html</link>
             <guid isPermaLink="false">ce17c990-e494-4b62-9a75-e6fc978e70d1</guid>
             <pubDate>Mon, 13 Jun 2016 06:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Brettos]]></title>
-            <description><![CDATA[<article><h1>Athens: Brettos</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a1c552-52a9-45ae-a050-9ddb645ff378.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-brettos/index.html</link>
-            <guid isPermaLink="false">e60bee7b-1816-43ef-bc54-1b62ccd9a049</guid>
-            <pubDate>Mon, 13 Jun 2016 06:40:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
