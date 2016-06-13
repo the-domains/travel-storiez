@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 06:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 06:49:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athens: Acropolis 1]]></title>
+            <description><![CDATA[<article><h1>Athens: Acropolis 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a666a905-469f-4d5a-a52c-08898f79f3f9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/athens-acropolis-1/index.html</link>
+            <guid isPermaLink="false">e9b26fb0-ef35-4b4a-9b86-65708fa9ea6d</guid>
+            <pubDate>Mon, 13 Jun 2016 06:49:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Athens: Theater]]></title>
             <description><![CDATA[<article><h1>Athens: Theater</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/000d9a21-ad81-47e0-aa9d-01eb1afeb4f9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-sea-entrance/index.html</link>
             <guid isPermaLink="false">20dc730d-073f-410b-a0e0-c635ae2490a8</guid>
             <pubDate>Sun, 12 Jun 2016 08:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: Knock Knock]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: Knock Knock</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd45d982-1630-4907-88a3-8fd8b5601d0a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-knock-knock/index.html</link>
-            <guid isPermaLink="false">682c3444-7c1d-4859-97dc-c5ff0222c86c</guid>
-            <pubDate>Sun, 12 Jun 2016 08:48:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
