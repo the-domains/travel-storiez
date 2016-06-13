@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 07:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 07:14:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athens: Acropolis 5]]></title>
+            <description><![CDATA[<article><h1>Athens: Acropolis 5</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/264af288-ce18-4cc8-a3ab-d2d68a3a9685.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/athens-acropolis-5/index.html</link>
+            <guid isPermaLink="false">a131b877-2210-4d9c-a219-5a77d2617c26</guid>
+            <pubDate>Mon, 13 Jun 2016 07:14:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Athens: Acropolis 4]]></title>
             <description><![CDATA[<article><h1>Athens: Acropolis 4</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b567775-7e87-4d4a-a92a-84783c15530e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-brettos/index.html</link>
             <guid isPermaLink="false">e60bee7b-1816-43ef-bc54-1b62ccd9a049</guid>
             <pubDate>Mon, 13 Jun 2016 06:40:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Graffiti with a Bird on It]]></title>
-            <description><![CDATA[<article><h1>Athens: Graffiti with a Bird on It</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30617128-b386-4dbd-853c-07fc774a1529.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-graffiti-with-a-bird-on-it/index.html</link>
-            <guid isPermaLink="false">9cf5a765-59a8-4841-9cd9-9f18835914f0</guid>
-            <pubDate>Mon, 13 Jun 2016 06:39:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
