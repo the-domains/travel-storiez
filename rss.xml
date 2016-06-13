@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 06:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 06:46:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athens: T-Shirt Shop for the Rock Starz]]></title>
+            <description><![CDATA[<article><h1>Athens: T-Shirt Shop for the Rock Starz</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e87ab8d-273c-4eba-99de-3a963985b433.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/athens-t-shirt-shop-for-the-rock-starz/index.html</link>
+            <guid isPermaLink="false">e3d783db-0467-42d5-8dc6-1e4739c718ce</guid>
+            <pubDate>Mon, 13 Jun 2016 06:45:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Athens: Cash Money]]></title>
             <description><![CDATA[<article><h1>Athens: Cash Money</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e487e3cc-bc7d-433f-9890-83af5b94cca8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-9/index.html</link>
             <guid isPermaLink="false">a937d2c2-25e3-48f3-a441-7198c10e9a48</guid>
             <pubDate>Sun, 12 Jun 2016 08:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: Old Town Clock Tower]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: Old Town Clock Tower</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8442354-317f-4be3-9ed7-7021c454c43b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-clock-tower/index.html</link>
-            <guid isPermaLink="false">53c4fa68-89e2-4748-a7d3-2ae5309071ae</guid>
-            <pubDate>Sun, 12 Jun 2016 08:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
