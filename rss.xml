@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 06:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 06:39:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athens: Graffiti with a Bird on It]]></title>
+            <description><![CDATA[<article><h1>Athens: Graffiti with a Bird on It</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30617128-b386-4dbd-853c-07fc774a1529.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/athens-graffiti-with-a-bird-on-it/index.html</link>
+            <guid isPermaLink="false">9cf5a765-59a8-4841-9cd9-9f18835914f0</guid>
+            <pubDate>Mon, 13 Jun 2016 06:39:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Athens: Graffiti 1]]></title>
             <description><![CDATA[<article><h1>Athens: Graffiti 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461fbb5-8ecf-4dce-961e-53d0ebf61830.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-old-town-7/index.html</link>
             <guid isPermaLink="false">49b725d1-9bdd-45bf-85ec-7fde383ddac2</guid>
             <pubDate>Sun, 12 Jun 2016 08:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: City needs...]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: City needs...</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-city-needs/index.html</link>
-            <guid isPermaLink="false">19eee421-1408-4865-9643-c9d9dff2d75d</guid>
-            <pubDate>Fri, 10 Jun 2016 20:29:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
