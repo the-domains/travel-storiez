@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 06:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 07:10:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athens: Acropolis 2]]></title>
+            <description><![CDATA[<article><h1>Athens: Acropolis 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aa7a46f-cdf9-4e41-9c71-67c7cc01f0b9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/athens-acropolis-2/index.html</link>
+            <guid isPermaLink="false">06c22bd4-9357-49c3-8396-6ba1d09df1ff</guid>
+            <pubDate>Mon, 13 Jun 2016 07:09:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Athens: Acropolis 1]]></title>
             <description><![CDATA[<article><h1>Athens: Acropolis 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a666a905-469f-4d5a-a52c-08898f79f3f9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/dubrovnik-croatian-beer-and-a-stella/index.html</link>
             <guid isPermaLink="false">05a7b050-ac61-4d2a-b3e6-40e392e6b66d</guid>
             <pubDate>Sun, 12 Jun 2016 08:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubrovnik: Sea Entrance]]></title>
-            <description><![CDATA[<article><h1>Dubrovnik: Sea Entrance</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78c55abf-0134-435b-b7d9-ce03975cf478.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/dubrovnik-sea-entrance/index.html</link>
-            <guid isPermaLink="false">20dc730d-073f-410b-a0e0-c635ae2490a8</guid>
-            <pubDate>Sun, 12 Jun 2016 08:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
