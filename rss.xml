@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:49:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split: Grgur Ninski]]></title>
+            <description><![CDATA[<article><h1>Split: Grgur Ninski</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1e47ba-816f-4729-b862-03d509690f33.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/split-grgur-ninski/index.html</link>
+            <guid isPermaLink="false">4ac604f6-b8f6-4312-b367-ac79541969ce</guid>
+            <pubDate>Wed, 15 Jun 2016 07:49:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Old Town Doors]]></title>
             <description><![CDATA[<article><h1>Split: Old Town Doors</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f511b701-6a97-4e53-a708-85e361234a35.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-acropolis-pillar/index.html</link>
             <guid isPermaLink="false">d11bbf02-9bd0-4ebd-83a1-7107c7497ec8</guid>
             <pubDate>Mon, 13 Jun 2016 07:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Acropolis 3]]></title>
-            <description><![CDATA[<article><h1>Athens: Acropolis 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7db8e7ad-a86d-45ed-8da8-6139a6e6be2b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-acropolis-3/index.html</link>
-            <guid isPermaLink="false">0e663cf8-c409-485f-a0bb-ccd48d53dbde</guid>
-            <pubDate>Mon, 13 Jun 2016 07:10:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
