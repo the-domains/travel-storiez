@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:18:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split: Old Town 1]]></title>
+            <description><![CDATA[<article><h1>Split: Old Town 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb625329-5c57-4941-8bdb-654b5246184b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/split-old-town-1/index.html</link>
+            <guid isPermaLink="false">fed60bb9-6d09-4d3f-a52d-6713e64fb1bb</guid>
+            <pubDate>Wed, 15 Jun 2016 07:18:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Panorama]]></title>
             <description><![CDATA[<article><h1>Split: Panorama</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/984d4899de39c761355df46470d004b659e7d949.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-acropolis-2/index.html</link>
             <guid isPermaLink="false">06c22bd4-9357-49c3-8396-6ba1d09df1ff</guid>
             <pubDate>Mon, 13 Jun 2016 07:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Acropolis 1]]></title>
-            <description><![CDATA[<article><h1>Athens: Acropolis 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a666a905-469f-4d5a-a52c-08898f79f3f9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-acropolis-1/index.html</link>
-            <guid isPermaLink="false">e9b26fb0-ef35-4b4a-9b86-65708fa9ea6d</guid>
-            <pubDate>Mon, 13 Jun 2016 06:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
