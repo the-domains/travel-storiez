@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:15:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split: Panorama]]></title>
+            <description><![CDATA[<article><h1>Split: Panorama</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/984d4899de39c761355df46470d004b659e7d949.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/split-panorama/index.html</link>
+            <guid isPermaLink="false">512d2d8f-33c9-423c-8800-cd73262645cb</guid>
+            <pubDate>Wed, 15 Jun 2016 07:15:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Old Town Tower]]></title>
             <description><![CDATA[<article><h1>Split: Old Town Tower</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e09e7d4b-316e-448b-aa32-501e3c54dc66.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-acropolis-1/index.html</link>
             <guid isPermaLink="false">e9b26fb0-ef35-4b4a-9b86-65708fa9ea6d</guid>
             <pubDate>Mon, 13 Jun 2016 06:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Theater]]></title>
-            <description><![CDATA[<article><h1>Athens: Theater</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/000d9a21-ad81-47e0-aa9d-01eb1afeb4f9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-theater/index.html</link>
-            <guid isPermaLink="false">5dca5d5d-1cdf-450f-9b34-8b97fb85388e</guid>
-            <pubDate>Mon, 13 Jun 2016 06:47:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
