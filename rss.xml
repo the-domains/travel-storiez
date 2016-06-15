@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:19:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split: Old Town Doors]]></title>
+            <description><![CDATA[<article><h1>Split: Old Town Doors</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f511b701-6a97-4e53-a708-85e361234a35.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/split-old-town-doors/index.html</link>
+            <guid isPermaLink="false">5551d78b-ebf3-4024-8467-7d4a8dda7269</guid>
+            <pubDate>Wed, 15 Jun 2016 07:19:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Old Town 1]]></title>
             <description><![CDATA[<article><h1>Split: Old Town 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb625329-5c57-4941-8bdb-654b5246184b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-acropolis-3/index.html</link>
             <guid isPermaLink="false">0e663cf8-c409-485f-a0bb-ccd48d53dbde</guid>
             <pubDate>Mon, 13 Jun 2016 07:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Acropolis 2]]></title>
-            <description><![CDATA[<article><h1>Athens: Acropolis 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aa7a46f-cdf9-4e41-9c71-67c7cc01f0b9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-acropolis-2/index.html</link>
-            <guid isPermaLink="false">06c22bd4-9357-49c3-8396-6ba1d09df1ff</guid>
-            <pubDate>Mon, 13 Jun 2016 07:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
