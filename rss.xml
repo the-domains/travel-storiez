@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:09:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split: Old Town Tower]]></title>
+            <description><![CDATA[<article><h1>Split: Old Town Tower</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e09e7d4b-316e-448b-aa32-501e3c54dc66.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/split-old-town-tower/index.html</link>
+            <guid isPermaLink="false">b14cf592-7422-43b5-a1bc-43be7155d0d7</guid>
+            <pubDate>Wed, 15 Jun 2016 07:08:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Old Town Entrance]]></title>
             <description><![CDATA[<article><h1>Split: Old Town Entrance</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8414975-1cfb-45ae-8b51-34972890b61d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-theater/index.html</link>
             <guid isPermaLink="false">5dca5d5d-1cdf-450f-9b34-8b97fb85388e</guid>
             <pubDate>Mon, 13 Jun 2016 06:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: T-Shirt Shop for the Rock Starz]]></title>
-            <description><![CDATA[<article><h1>Athens: T-Shirt Shop for the Rock Starz</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e87ab8d-273c-4eba-99de-3a963985b433.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-t-shirt-shop-for-the-rock-starz/index.html</link>
-            <guid isPermaLink="false">e3d783db-0467-42d5-8dc6-1e4739c718ce</guid>
-            <pubDate>Mon, 13 Jun 2016 06:45:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
