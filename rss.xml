@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:56:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split: Old Town 2]]></title>
+            <description><![CDATA[<article><h1>Split: Old Town 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd12e5ca-bb98-4592-95d9-76b31e0f7a75.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/split-old-town-2/index.html</link>
+            <guid isPermaLink="false">b6cefe75-4ec1-48eb-a504-9231063c89d9</guid>
+            <pubDate>Wed, 15 Jun 2016 07:55:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Diocletian's Palace]]></title>
             <description><![CDATA[<article><h1>Split: Diocletian's Palace</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac3cd0da-d4d9-4ecb-b26e-41e03a96c675.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-acropolis-6/index.html</link>
             <guid isPermaLink="false">8ddb5c9e-3df3-4cfe-ade8-c14d9ed96ad4</guid>
             <pubDate>Mon, 13 Jun 2016 07:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Acropolis 5]]></title>
-            <description><![CDATA[<article><h1>Athens: Acropolis 5</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/264af288-ce18-4cc8-a3ab-d2d68a3a9685.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-acropolis-5/index.html</link>
-            <guid isPermaLink="false">a131b877-2210-4d9c-a219-5a77d2617c26</guid>
-            <pubDate>Mon, 13 Jun 2016 07:14:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
