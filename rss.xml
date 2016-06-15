@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:54:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split: Diocletian's Palace]]></title>
+            <description><![CDATA[<article><h1>Split: Diocletian's Palace</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac3cd0da-d4d9-4ecb-b26e-41e03a96c675.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/split-diocletians-palace/index.html</link>
+            <guid isPermaLink="false">6af6579c-70d2-44d9-9596-006acc767f1e</guid>
+            <pubDate>Wed, 15 Jun 2016 07:53:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Old Town 2]]></title>
             <description><![CDATA[<article><h1>Split: Old Town 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92b90197-a8ae-4c49-af58-10931ed66033.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/athens-acropolis-5/index.html</link>
             <guid isPermaLink="false">a131b877-2210-4d9c-a219-5a77d2617c26</guid>
             <pubDate>Mon, 13 Jun 2016 07:14:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athens: Acropolis 4]]></title>
-            <description><![CDATA[<article><h1>Athens: Acropolis 4</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b567775-7e87-4d4a-a92a-84783c15530e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/athens-acropolis-4/index.html</link>
-            <guid isPermaLink="false">ee587df7-38a5-47a0-848e-876a1f4f1c1c</guid>
-            <pubDate>Mon, 13 Jun 2016 07:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
