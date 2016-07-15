@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 20:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 21:00:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menton: Beach Life 3]]></title>
+            <description><![CDATA[<article><h1>Menton: Beach Life 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348cbffb-bcd4-4ee7-886b-faaab3541c22.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/348cbffb-bcd4-4ee7-886b-faaab3541c22.jpg</link>
+            <guid isPermaLink="false">07c21c5e-6a17-467f-b8ec-6ad213778f76</guid>
+            <pubDate>Fri, 15 Jul 2016 21:00:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Menton: Beach Life 2]]></title>
             <description><![CDATA[<article><h1>Menton: Beach Life 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/118d603c-8ac5-4acc-b0da-8f472aa5a78e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/25572e33-af62-47d4-898b-cec75a652e45.jpg</link>
             <guid isPermaLink="false">9f6c5926-1f6a-447a-a729-b69f997f6395</guid>
             <pubDate>Fri, 15 Jul 2016 19:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Harbor]]></title>
-            <description><![CDATA[<article><h1>Split: Harbor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60063d9d-0666-45cc-a60e-53a73229531f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-harbor/index.html</link>
-            <guid isPermaLink="false">ea4d840a-9efc-415f-b0f2-231923964e3e</guid>
-            <pubDate>Wed, 15 Jun 2016 07:56:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
