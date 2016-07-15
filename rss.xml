@@ -4,8 +4,22 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 20:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 20:58:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menton: Beach Life 2]]></title>
+            <description><![CDATA[<article><h1>Menton: Beach Life 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/118d603c-8ac5-4acc-b0da-8f472aa5a78e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/118d603c-8ac5-4acc-b0da-8f472aa5a78e.jpg</link>
+            <guid isPermaLink="false">12850ec6-690d-457e-816b-eaf2df3c3cdb</guid>
+            <pubDate>Fri, 15 Jul 2016 20:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Menton: Beach Life 1]]></title>
+            <description><![CDATA[<article><h1>Menton: Beach Life 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c479206-2f7c-4b55-80be-3a357da2bc77.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c479206-2f7c-4b55-80be-3a357da2bc77.jpg</link>
+            <guid isPermaLink="false">c5e27efc-4237-4334-9508-649c74351315</guid>
+            <pubDate>Fri, 15 Jul 2016 20:55:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Menton: Italian Border After Dinner]]></title>
             <description><![CDATA[<article><h1>Menton: Italian Border After Dinner</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e389666-87b7-4fbe-8556-35c82901cf79.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/split-harbor/index.html</link>
             <guid isPermaLink="false">ea4d840a-9efc-415f-b0f2-231923964e3e</guid>
             <pubDate>Wed, 15 Jun 2016 07:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Old Town 2]]></title>
-            <description><![CDATA[<article><h1>Split: Old Town 2</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd12e5ca-bb98-4592-95d9-76b31e0f7a75.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-old-town-2/index.html</link>
-            <guid isPermaLink="false">b6cefe75-4ec1-48eb-a504-9231063c89d9</guid>
-            <pubDate>Wed, 15 Jun 2016 07:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Diocletian's Palace]]></title>
-            <description><![CDATA[<article><h1>Split: Diocletian's Palace</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac3cd0da-d4d9-4ecb-b26e-41e03a96c675.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-diocletians-palace/index.html</link>
-            <guid isPermaLink="false">6af6579c-70d2-44d9-9596-006acc767f1e</guid>
-            <pubDate>Wed, 15 Jun 2016 07:53:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
