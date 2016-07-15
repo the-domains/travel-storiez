@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 21:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 22:28:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nice: Euro 2016]]></title>
+            <description><![CDATA[<article><h1>Nice: Euro 2016</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/857c4409-d494-46d5-a894-5674eaa54352.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/857c4409-d494-46d5-a894-5674eaa54352.jpg</link>
+            <guid isPermaLink="false">2ad7c1d5-4117-4673-b25f-7aaeaac9c274</guid>
+            <pubDate>Fri, 15 Jul 2016 22:28:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nice]]></title>
             <description><![CDATA[<article><h1>Nice</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32ea3fb2-71d5-41af-9168-580a2bbf5f51.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d94f2a1-cca2-421e-9d64-16a1a842a772.jpg</link>
             <guid isPermaLink="false">20e74f56-2c4d-45ba-a934-6fda805dbbfa</guid>
             <pubDate>Fri, 15 Jul 2016 20:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monaco Grand Prix Starting Grid]]></title>
-            <description><![CDATA[<article><h1>Monaco Grand Prix Starting Grid</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c929689-af15-496a-9e97-9d6ed0e72424.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c929689-af15-496a-9e97-9d6ed0e72424.jpg</link>
-            <guid isPermaLink="false">cf023def-447e-4637-9b07-2d77b7feaf6c</guid>
-            <pubDate>Fri, 15 Jul 2016 20:38:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
