@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 07:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 19:11:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menton: Steps to the Cathedral]]></title>
+            <description><![CDATA[<article><h1>Menton: Steps to the Cathedral</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25572e33-af62-47d4-898b-cec75a652e45.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/25572e33-af62-47d4-898b-cec75a652e45.jpg</link>
+            <guid isPermaLink="false">9f6c5926-1f6a-447a-a729-b69f997f6395</guid>
+            <pubDate>Fri, 15 Jul 2016 19:10:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split: Harbor]]></title>
             <description><![CDATA[<article><h1>Split: Harbor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60063d9d-0666-45cc-a60e-53a73229531f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/split-old-town-tower/index.html</link>
             <guid isPermaLink="false">b14cf592-7422-43b5-a1bc-43be7155d0d7</guid>
             <pubDate>Wed, 15 Jun 2016 07:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Old Town Entrance]]></title>
-            <description><![CDATA[<article><h1>Split: Old Town Entrance</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8414975-1cfb-45ae-8b51-34972890b61d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-old-town-entrance/index.html</link>
-            <guid isPermaLink="false">69d6170d-5d17-4a1f-8976-6e8ba394bc10</guid>
-            <pubDate>Wed, 15 Jun 2016 07:06:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
