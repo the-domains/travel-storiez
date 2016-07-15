@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 21:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 21:05:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Villefranche-sur-Mer, France]]></title>
+            <description><![CDATA[<article><h1>Villefranche-sur-Mer, France</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8df4fd2-42e6-45ba-8fc6-f9f067b26c7c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8df4fd2-42e6-45ba-8fc6-f9f067b26c7c.jpg</link>
+            <guid isPermaLink="false">0b4d36d7-7487-41f2-a5cf-379dea342ace</guid>
+            <pubDate>Fri, 15 Jul 2016 21:04:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Menton: Beach Life 3]]></title>
             <description><![CDATA[<article><h1>Menton: Beach Life 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348cbffb-bcd4-4ee7-886b-faaab3541c22.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/94cfcfaf-0f4b-40b1-a66f-94db11ec0fa9.jpg</link>
             <guid isPermaLink="false">3c03aa1b-7c0a-4030-9b65-996e52e9379d</guid>
             <pubDate>Fri, 15 Jul 2016 20:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menton: Steps to the Cathedral]]></title>
-            <description><![CDATA[<article><h1>Menton: Steps to the Cathedral</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25572e33-af62-47d4-898b-cec75a652e45.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/25572e33-af62-47d4-898b-cec75a652e45.jpg</link>
-            <guid isPermaLink="false">9f6c5926-1f6a-447a-a729-b69f997f6395</guid>
-            <pubDate>Fri, 15 Jul 2016 19:10:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
