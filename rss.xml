@@ -4,8 +4,22 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 20:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 20:41:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menton: At Night]]></title>
+            <description><![CDATA[<article><h1>Menton: At Night</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d94f2a1-cca2-421e-9d64-16a1a842a772.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d94f2a1-cca2-421e-9d64-16a1a842a772.jpg</link>
+            <guid isPermaLink="false">20e74f56-2c4d-45ba-a934-6fda805dbbfa</guid>
+            <pubDate>Fri, 15 Jul 2016 20:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monaco Grand Prix Starting Grid]]></title>
+            <description><![CDATA[<article><h1>Monaco Grand Prix Starting Grid</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c929689-af15-496a-9e97-9d6ed0e72424.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c929689-af15-496a-9e97-9d6ed0e72424.jpg</link>
+            <guid isPermaLink="false">cf023def-447e-4637-9b07-2d77b7feaf6c</guid>
+            <pubDate>Fri, 15 Jul 2016 20:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monaco Grand Prix 1 Week Later]]></title>
             <description><![CDATA[<article><h1>Monaco Grand Prix 1 Week Later</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94cfcfaf-0f4b-40b1-a66f-94db11ec0fa9.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/split-old-town-doors/index.html</link>
             <guid isPermaLink="false">5551d78b-ebf3-4024-8467-7d4a8dda7269</guid>
             <pubDate>Wed, 15 Jun 2016 07:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Old Town 1]]></title>
-            <description><![CDATA[<article><h1>Split: Old Town 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb625329-5c57-4941-8bdb-654b5246184b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-old-town-1/index.html</link>
-            <guid isPermaLink="false">fed60bb9-6d09-4d3f-a52d-6713e64fb1bb</guid>
-            <pubDate>Wed, 15 Jun 2016 07:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Panorama]]></title>
-            <description><![CDATA[<article><h1>Split: Panorama</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/984d4899de39c761355df46470d004b659e7d949.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-panorama/index.html</link>
-            <guid isPermaLink="false">512d2d8f-33c9-423c-8800-cd73262645cb</guid>
-            <pubDate>Wed, 15 Jun 2016 07:15:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
