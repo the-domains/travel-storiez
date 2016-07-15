@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 20:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 20:51:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menton: Living by the Italian Border]]></title>
+            <description><![CDATA[<article><h1>Menton: Living by the Italian Border</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e103444-468f-46e3-a6dd-3dbeea44fb3e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e103444-468f-46e3-a6dd-3dbeea44fb3e.jpg</link>
+            <guid isPermaLink="false">b89deb24-7944-4a40-89ab-d3be53c31afe</guid>
+            <pubDate>Fri, 15 Jul 2016 20:51:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monte Carlo Harbor]]></title>
             <description><![CDATA[<article><h1>Monte Carlo Harbor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57455fe8-b801-4620-9c13-75cf6d69a26c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/split-old-town-2/index.html</link>
             <guid isPermaLink="false">604569d0-465f-4b75-bd6a-170f032a65a4</guid>
             <pubDate>Wed, 15 Jun 2016 07:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Grgur Ninski]]></title>
-            <description><![CDATA[<article><h1>Split: Grgur Ninski</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1e47ba-816f-4729-b862-03d509690f33.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-grgur-ninski/index.html</link>
-            <guid isPermaLink="false">4ac604f6-b8f6-4312-b367-ac79541969ce</guid>
-            <pubDate>Wed, 15 Jun 2016 07:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
