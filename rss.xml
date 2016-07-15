@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 20:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 20:50:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monte Carlo Harbor]]></title>
+            <description><![CDATA[<article><h1>Monte Carlo Harbor</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57455fe8-b801-4620-9c13-75cf6d69a26c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/57455fe8-b801-4620-9c13-75cf6d69a26c.jpg</link>
+            <guid isPermaLink="false">7dcccab0-30e7-4bf2-96e0-45572272a1da</guid>
+            <pubDate>Fri, 15 Jul 2016 20:49:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Menton: At Night]]></title>
             <description><![CDATA[<article><h1>Menton: At Night</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d94f2a1-cca2-421e-9d64-16a1a842a772.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/split-grgur-ninski/index.html</link>
             <guid isPermaLink="false">4ac604f6-b8f6-4312-b367-ac79541969ce</guid>
             <pubDate>Wed, 15 Jun 2016 07:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Old Town Doors]]></title>
-            <description><![CDATA[<article><h1>Split: Old Town Doors</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f511b701-6a97-4e53-a708-85e361234a35.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-old-town-doors/index.html</link>
-            <guid isPermaLink="false">5551d78b-ebf3-4024-8467-7d4a8dda7269</guid>
-            <pubDate>Wed, 15 Jun 2016 07:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
