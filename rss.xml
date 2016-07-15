@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 19:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 20:35:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monaco Grand Prix 1 Week Later]]></title>
+            <description><![CDATA[<article><h1>Monaco Grand Prix 1 Week Later</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94cfcfaf-0f4b-40b1-a66f-94db11ec0fa9.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/94cfcfaf-0f4b-40b1-a66f-94db11ec0fa9.jpg</link>
+            <guid isPermaLink="false">3c03aa1b-7c0a-4030-9b65-996e52e9379d</guid>
+            <pubDate>Fri, 15 Jul 2016 20:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Menton: Steps to the Cathedral]]></title>
             <description><![CDATA[<article><h1>Menton: Steps to the Cathedral</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25572e33-af62-47d4-898b-cec75a652e45.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/split-panorama/index.html</link>
             <guid isPermaLink="false">512d2d8f-33c9-423c-8800-cd73262645cb</guid>
             <pubDate>Wed, 15 Jun 2016 07:15:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Split: Old Town Tower]]></title>
-            <description><![CDATA[<article><h1>Split: Old Town Tower</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e09e7d4b-316e-448b-aa32-501e3c54dc66.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/split-old-town-tower/index.html</link>
-            <guid isPermaLink="false">b14cf592-7422-43b5-a1bc-43be7155d0d7</guid>
-            <pubDate>Wed, 15 Jun 2016 07:08:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
