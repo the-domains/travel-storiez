@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 21:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 21:09:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nice]]></title>
+            <description><![CDATA[<article><h1>Nice</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32ea3fb2-71d5-41af-9168-580a2bbf5f51.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/32ea3fb2-71d5-41af-9168-580a2bbf5f51.jpg</link>
+            <guid isPermaLink="false">ed4e7166-e84e-496e-b2ba-6376fcd53ce1</guid>
+            <pubDate>Fri, 15 Jul 2016 21:08:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Villefranche-sur-Mer, France]]></title>
             <description><![CDATA[<article><h1>Villefranche-sur-Mer, France</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8df4fd2-42e6-45ba-8fc6-f9f067b26c7c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c929689-af15-496a-9e97-9d6ed0e72424.jpg</link>
             <guid isPermaLink="false">cf023def-447e-4637-9b07-2d77b7feaf6c</guid>
             <pubDate>Fri, 15 Jul 2016 20:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monaco Grand Prix 1 Week Later]]></title>
-            <description><![CDATA[<article><h1>Monaco Grand Prix 1 Week Later</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94cfcfaf-0f4b-40b1-a66f-94db11ec0fa9.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/94cfcfaf-0f4b-40b1-a66f-94db11ec0fa9.jpg</link>
-            <guid isPermaLink="false">3c03aa1b-7c0a-4030-9b65-996e52e9379d</guid>
-            <pubDate>Fri, 15 Jul 2016 20:35:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
