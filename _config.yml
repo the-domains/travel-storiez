@@ -1,4 +1,4 @@
-name: Travel Storiez
+name: Travel Storiez | Euro 2016
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.18922
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.3125
-  lightness: 0.25014147418551147
-  saturation: 0.008069801842793822
+  brandStrength: 0.625
+  lightness: 0.625
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
