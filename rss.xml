@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 05:05:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Gare de Lyon]]></title>
+            <description><![CDATA[<article><h1>Paris: Gare de Lyon</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2e39ec-8797-46a2-ab47-51dcd293df91.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2e39ec-8797-46a2-ab47-51dcd293df91.jpg</link>
+            <guid isPermaLink="false">1d26eedd-705e-4f8a-978d-c8040298c09a</guid>
+            <pubDate>Sat, 16 Jul 2016 05:04:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Menton: Bougainvillea]]></title>
             <description><![CDATA[<article><h1>Menton: Bougainvillea</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1cd21d-edee-4825-a934-fdbf4d51bc19.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8df4fd2-42e6-45ba-8fc6-f9f067b26c7c.jpg</link>
             <guid isPermaLink="false">0b4d36d7-7487-41f2-a5cf-379dea342ace</guid>
             <pubDate>Fri, 15 Jul 2016 21:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menton: Beach Life 3]]></title>
-            <description><![CDATA[<article><h1>Menton: Beach Life 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348cbffb-bcd4-4ee7-886b-faaab3541c22.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/348cbffb-bcd4-4ee7-886b-faaab3541c22.jpg</link>
-            <guid isPermaLink="false">07c21c5e-6a17-467f-b8ec-6ad213778f76</guid>
-            <pubDate>Fri, 15 Jul 2016 21:00:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
