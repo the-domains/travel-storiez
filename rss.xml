@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 06:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 06:58:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Place de la Republique Monument]]></title>
+            <description><![CDATA[<article><h1>Paris: Place de la Republique Monument</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59e55e9d-3e38-4296-84cd-46263dc4adeb.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/59e55e9d-3e38-4296-84cd-46263dc4adeb.jpg</link>
+            <guid isPermaLink="false">78086e15-5283-4a39-bd68-ca952e3eaa09</guid>
+            <pubDate>Mon, 18 Jul 2016 06:58:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Drop-in @ Invalides]]></title>
             <description><![CDATA[<article><h1>Paris: Drop-in @ Invalides</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c211ba-9c9f-4400-9a3f-e42f66e1cfbe.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/84430e6c-7447-49e9-9bf2-c24dd7306497.jpg</link>
             <guid isPermaLink="false">2ccdc631-f867-4db3-83a5-f09042079154</guid>
             <pubDate>Fri, 15 Jul 2016 22:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Villefranche sur Mer, Part Deux]]></title>
-            <description><![CDATA[<article><h1>Villefranche sur Mer, Part Deux</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f253be1b-023b-443c-970f-f2e01bcc45fd.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f253be1b-023b-443c-970f-f2e01bcc45fd.jpg</link>
-            <guid isPermaLink="false">0dcc9111-c945-41ac-b940-e0c105496937</guid>
-            <pubDate>Fri, 15 Jul 2016 22:31:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
