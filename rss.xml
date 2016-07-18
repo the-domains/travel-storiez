@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 07:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 07:20:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Euro 2016 Irish Fans]]></title>
+            <description><![CDATA[<article><h1>Paris: Euro 2016 Irish Fans</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/171e930a-0280-4682-9c69-b6af470c17aa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/paris-euro-2016-irish-fans/index.html</link>
+            <guid isPermaLink="false">e459d318-bb15-4ef4-9f23-3e2b3e6e08c1</guid>
+            <pubDate>Mon, 18 Jul 2016 07:20:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Sacre Coeur]]></title>
             <description><![CDATA[<article><h1>Paris: Sacre Coeur</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1ef972f823457982cedcb7fb39d11adb/croprotate.jpg?cropheight=1084&cropwidth=7504&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F58e327ae-40a2-492f-907f-1966bab15cc0.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcc55149-38a6-49d6-a338-3de5dd679cd4.jpg</link>
             <guid isPermaLink="false">97d4b8de-e966-4a43-81d9-a66b20e28c6b</guid>
             <pubDate>Fri, 15 Jul 2016 22:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menton: View from the Cemetary 3]]></title>
-            <description><![CDATA[<article><h1>Menton: View from the Cemetary 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c59de8cb-6977-4190-8d50-ab6b9863c714.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c59de8cb-6977-4190-8d50-ab6b9863c714.jpg</link>
-            <guid isPermaLink="false">f6e2d2ee-fe23-4de2-b860-fe130970d5bf</guid>
-            <pubDate>Fri, 15 Jul 2016 22:47:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
