@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 07:29:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Moulin Rouge]]></title>
+            <description><![CDATA[<article><h1>Paris: Moulin Rouge</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59dd233c-c7e8-4c25-a439-554de33b544e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/travel-storiez/paris-moulin-rouge/index.html</link>
+            <guid isPermaLink="false">b788c9ec-fd53-4f5f-adad-a75e86b715dd</guid>
+            <pubDate>Mon, 18 Jul 2016 07:28:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Euro 2016 Irish Fans]]></title>
             <description><![CDATA[<article><h1>Paris: Euro 2016 Irish Fans</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/171e930a-0280-4682-9c69-b6af470c17aa.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1cd21d-edee-4825-a934-fdbf4d51bc19.jpg</link>
             <guid isPermaLink="false">2e53bd61-16a9-4425-98f1-639b363ac341</guid>
             <pubDate>Fri, 15 Jul 2016 22:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menton: View from the Cemetary 4]]></title>
-            <description><![CDATA[<article><h1>Menton: View from the Cemetary 4</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcc55149-38a6-49d6-a338-3de5dd679cd4.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcc55149-38a6-49d6-a338-3de5dd679cd4.jpg</link>
-            <guid isPermaLink="false">97d4b8de-e966-4a43-81d9-a66b20e28c6b</guid>
-            <pubDate>Fri, 15 Jul 2016 22:51:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
