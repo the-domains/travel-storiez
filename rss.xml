@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 06:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 06:47:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Drop-in @ Invalides]]></title>
+            <description><![CDATA[<article><h1>Paris: Drop-in @ Invalides</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c211ba-9c9f-4400-9a3f-e42f66e1cfbe.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c211ba-9c9f-4400-9a3f-e42f66e1cfbe.jpg</link>
+            <guid isPermaLink="false">f0f7bc01-8691-4892-9afe-b7ff548da3db</guid>
+            <pubDate>Mon, 18 Jul 2016 06:46:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Notre Dame]]></title>
             <description><![CDATA[<article><h1>Paris: Notre Dame</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b5777c-f268-498a-aceb-dd54bf50cd62.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f253be1b-023b-443c-970f-f2e01bcc45fd.jpg</link>
             <guid isPermaLink="false">0dcc9111-c945-41ac-b940-e0c105496937</guid>
             <pubDate>Fri, 15 Jul 2016 22:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nice: Euro 2016]]></title>
-            <description><![CDATA[<article><h1>Nice: Euro 2016</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/857c4409-d494-46d5-a894-5674eaa54352.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/857c4409-d494-46d5-a894-5674eaa54352.jpg</link>
-            <guid isPermaLink="false">2ad7c1d5-4117-4673-b25f-7aaeaac9c274</guid>
-            <pubDate>Fri, 15 Jul 2016 22:28:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
