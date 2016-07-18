@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 07:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 07:32:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Le Chat Noir]]></title>
+            <description><![CDATA[<article><h1>Paris: Le Chat Noir</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a503f926-222e-4894-be50-b183812c7117.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a503f926-222e-4894-be50-b183812c7117.jpg</link>
+            <guid isPermaLink="false">d06694e4-47c7-4225-9d4b-3afcd1266e30</guid>
+            <pubDate>Mon, 18 Jul 2016 07:32:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Moulin Rouge]]></title>
             <description><![CDATA[<article><h1>Paris: Moulin Rouge</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59dd233c-c7e8-4c25-a439-554de33b544e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2e39ec-8797-46a2-ab47-51dcd293df91.jpg</link>
             <guid isPermaLink="false">1d26eedd-705e-4f8a-978d-c8040298c09a</guid>
             <pubDate>Sat, 16 Jul 2016 05:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menton: Bougainvillea]]></title>
-            <description><![CDATA[<article><h1>Menton: Bougainvillea</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1cd21d-edee-4825-a934-fdbf4d51bc19.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1cd21d-edee-4825-a934-fdbf4d51bc19.jpg</link>
-            <guid isPermaLink="false">2e53bd61-16a9-4425-98f1-639b363ac341</guid>
-            <pubDate>Fri, 15 Jul 2016 22:56:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
