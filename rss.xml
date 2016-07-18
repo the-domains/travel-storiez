@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 06:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 07:08:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: View from Sacre Coeur]]></title>
+            <description><![CDATA[<article><h1>Paris: View from Sacre Coeur</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc010cad138ff49ed631cda107eb44e5/croprotate.jpg?cropheight=1693&cropwidth=9744&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F926609fa-413c-4f5e-b64a-ac4d23d2f4db.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/926609fa-413c-4f5e-b64a-ac4d23d2f4db.jpg</link>
+            <guid isPermaLink="false">df61d48d-677d-42f9-a42d-4979fc48d3f3</guid>
+            <pubDate>Mon, 18 Jul 2016 07:08:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Place de la Republique Monument]]></title>
             <description><![CDATA[<article><h1>Paris: Place de la Republique Monument</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59e55e9d-3e38-4296-84cd-46263dc4adeb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ff7c30a-edda-474d-94e6-71b07354f3d5.jpg</link>
             <guid isPermaLink="false">de1fd978-275a-47c8-82a6-c5b7a48b06ee</guid>
             <pubDate>Fri, 15 Jul 2016 22:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menton: View from the Cemetary 1]]></title>
-            <description><![CDATA[<article><h1>Menton: View from the Cemetary 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84430e6c-7447-49e9-9bf2-c24dd7306497.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/84430e6c-7447-49e9-9bf2-c24dd7306497.jpg</link>
-            <guid isPermaLink="false">2ccdc631-f867-4db3-83a5-f09042079154</guid>
-            <pubDate>Fri, 15 Jul 2016 22:40:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
