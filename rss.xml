@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 23:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 23:56:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Euro 2016 Eiffel Tower Fan Zone ]]></title>
+            <description><![CDATA[<article><h1>Paris: Euro 2016 Eiffel Tower Fan Zone </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e5897fe-b724-4dae-8992-edaa634762ac.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e5897fe-b724-4dae-8992-edaa634762ac.jpg</link>
+            <guid isPermaLink="false">c9b2aa5d-2c43-4e39-8032-dc718e55b374</guid>
+            <pubDate>Tue, 19 Jul 2016 23:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Seine after the Flood]]></title>
             <description><![CDATA[<article><h1>Paris: Seine after the Flood</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ca25d6-7d02-4d61-aee8-da67ac0e7548.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/paris-moulin-rouge/index.html</link>
             <guid isPermaLink="false">b788c9ec-fd53-4f5f-adad-a75e86b715dd</guid>
             <pubDate>Mon, 18 Jul 2016 07:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris: Euro 2016 Irish Fans]]></title>
-            <description><![CDATA[<article><h1>Paris: Euro 2016 Irish Fans</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/171e930a-0280-4682-9c69-b6af470c17aa.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/paris-euro-2016-irish-fans/index.html</link>
-            <guid isPermaLink="false">e459d318-bb15-4ef4-9f23-3e2b3e6e08c1</guid>
-            <pubDate>Mon, 18 Jul 2016 07:20:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
