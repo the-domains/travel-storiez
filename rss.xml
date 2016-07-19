@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 22:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 23:13:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Eiffel in Between]]></title>
+            <description><![CDATA[<article><h1>Paris: Eiffel in Between</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/802bedd4-d3fb-44b6-b553-f3331474608f.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/802bedd4-d3fb-44b6-b553-f3331474608f.jpg</link>
+            <guid isPermaLink="false">bbf2f966-1e2d-43b5-b366-6d31be374d89</guid>
+            <pubDate>Tue, 19 Jul 2016 23:13:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Eiffel]]></title>
             <description><![CDATA[<article><h1>Paris: Eiffel</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c905082-ac9e-489c-9b8b-57d964846949.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/58e327ae-40a2-492f-907f-1966bab15cc0.jpg</link>
             <guid isPermaLink="false">6c1797f5-95cb-4390-a368-c77c3f261d96</guid>
             <pubDate>Mon, 18 Jul 2016 07:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris: View from Sacre Coeur]]></title>
-            <description><![CDATA[<article><h1>Paris: View from Sacre Coeur</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc010cad138ff49ed631cda107eb44e5/croprotate.jpg?cropheight=1693&cropwidth=9744&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F926609fa-413c-4f5e-b64a-ac4d23d2f4db.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/926609fa-413c-4f5e-b64a-ac4d23d2f4db.jpg</link>
-            <guid isPermaLink="false">df61d48d-677d-42f9-a42d-4979fc48d3f3</guid>
-            <pubDate>Mon, 18 Jul 2016 07:08:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
