@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 07:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 07:27:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Support for Orlando]]></title>
+            <description><![CDATA[<article><h1>Paris: Support for Orlando</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/739afb1a-a969-4559-8a9b-d83b3e906940.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/739afb1a-a969-4559-8a9b-d83b3e906940.jpg</link>
+            <guid isPermaLink="false">a8abcbeb-91ef-465f-ae58-b610f0441cd8</guid>
+            <pubDate>Tue, 19 Jul 2016 07:27:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Parc de Prince | Romania vs. Switzerland]]></title>
             <description><![CDATA[<article><h1>Paris: Parc de Prince | Romania vs. Switzerland</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6119f76f-acf4-49a6-9c5a-b91e96783b18.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/241fa8b1-3517-40b2-ac60-818ee6cb9fbb.jpg</link>
             <guid isPermaLink="false">5460585a-8b73-4e6e-b026-7d36c802bf3d</guid>
             <pubDate>Mon, 18 Jul 2016 06:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris: Mini]]></title>
-            <description><![CDATA[<article><h1>Paris: Mini</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/621b42e6-b87f-4e5b-b6d1-0c1223bcc6a3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/paris-mini/index.html</link>
-            <guid isPermaLink="false">393c1fcb-28ea-4ae4-8841-65706ccbc698</guid>
-            <pubDate>Sat, 16 Jul 2016 05:07:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
