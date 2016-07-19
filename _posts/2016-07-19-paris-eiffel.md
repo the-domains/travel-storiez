@@ -7,14 +7,14 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-19T21:23:03.187Z'
-dateModified: '2016-07-19T21:17:16.127Z'
+datePublished: '2016-07-19T22:34:05.623Z'
+dateModified: '2016-07-19T21:23:10.511Z'
 title: 'Paris: Eiffel'
+author: []
+sourcePath: _posts/2016-07-19-paris-eiffel.md
 authors: []
 publisher: null
-author: []
 starred: false
-sourcePath: _posts/2016-07-19-paris-eiffel.md
 _type: MediaObject
 
 ---
