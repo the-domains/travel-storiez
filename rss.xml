@@ -4,8 +4,15 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 07:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 07:26:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris: Parc de Prince | Romania vs. Switzerland]]></title>
+            <description><![CDATA[<article><h1>Paris: Parc de Prince | Romania vs. Switzerland</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6119f76f-acf4-49a6-9c5a-b91e96783b18.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6119f76f-acf4-49a6-9c5a-b91e96783b18.jpg</link>
+            <guid isPermaLink="false">855a787a-e9b7-49d7-8075-d4eb988c0bfc</guid>
+            <pubDate>Tue, 19 Jul 2016 07:26:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris: Le Chat Noir]]></title>
             <description><![CDATA[<article><h1>Paris: Le Chat Noir</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a503f926-222e-4894-be50-b183812c7117.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/travel-storiez/paris-mini/index.html</link>
             <guid isPermaLink="false">393c1fcb-28ea-4ae4-8841-65706ccbc698</guid>
             <pubDate>Sat, 16 Jul 2016 05:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris: Gare de Lyon]]></title>
-            <description><![CDATA[<article><h1>Paris: Gare de Lyon</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2e39ec-8797-46a2-ab47-51dcd293df91.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2e39ec-8797-46a2-ab47-51dcd293df91.jpg</link>
-            <guid isPermaLink="false">1d26eedd-705e-4f8a-978d-c8040298c09a</guid>
-            <pubDate>Sat, 16 Jul 2016 05:04:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
