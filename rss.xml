@@ -4,11 +4,18 @@
         <description><![CDATA[Travel Storiez | Euro 2016]]></description>
         <link>https://thegrid.ai/travel-storiez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 23:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 00:06:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-storiez/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Paris: Euro 2016 Eiffel Tower Fan Zone ]]></title>
-            <description><![CDATA[<article><h1>Paris: Euro 2016 Eiffel Tower Fan Zone </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e5897fe-b724-4dae-8992-edaa634762ac.jpg"></article>]]></description>
+            <title><![CDATA[Paris: L'Arc de Triomphe]]></title>
+            <description><![CDATA[<article><h1>Paris: L'Arc de Triomphe</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0356aac3-06dd-4dba-bbda-411b5ab4a2ec.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0356aac3-06dd-4dba-bbda-411b5ab4a2ec.jpg</link>
+            <guid isPermaLink="false">49bc1c4b-23ee-48a4-a8a4-9ee2483e80ee</guid>
+            <pubDate>Wed, 20 Jul 2016 00:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris: Euro 2016 Eiffel Tower Fan Zone]]></title>
+            <description><![CDATA[<article><h1>Paris: Euro 2016 Eiffel Tower Fan Zone</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e5897fe-b724-4dae-8992-edaa634762ac.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e5897fe-b724-4dae-8992-edaa634762ac.jpg</link>
             <guid isPermaLink="false">c9b2aa5d-2c43-4e39-8032-dc718e55b374</guid>
             <pubDate>Tue, 19 Jul 2016 23:56:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a503f926-222e-4894-be50-b183812c7117.jpg</link>
             <guid isPermaLink="false">d06694e4-47c7-4225-9d4b-3afcd1266e30</guid>
             <pubDate>Mon, 18 Jul 2016 07:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris: Moulin Rouge]]></title>
-            <description><![CDATA[<article><h1>Paris: Moulin Rouge</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59dd233c-c7e8-4c25-a439-554de33b544e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/travel-storiez/paris-moulin-rouge/index.html</link>
-            <guid isPermaLink="false">b788c9ec-fd53-4f5f-adad-a75e86b715dd</guid>
-            <pubDate>Mon, 18 Jul 2016 07:28:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
